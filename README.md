@@ -87,6 +87,7 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Building IoT](https://www.buildingiot.de) | Cologne 🇩🇪 | June 1-2 | JavaScript | [✅](https://www.buildingiot.de/call.php) | [✅](https://www.buildingiot.de/konferenz_coc.php) |
 | [Webinale](https://webinale.de/de/) | Berlin 🇩🇪 | June 4-8 | JavaScript, PHP, HTML, CSS, CI/CD | ❓ | ❓ |
+| [pitercss_conf](https://pitercss.com/) | St. Petersburg 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | ❓ | ❓ |
 | [DevIT](http://devitconf.org/) | Thessaloniki  🇬🇷 | June 9 | JavaScript | ❓ | [✅](http://devitconf.org/code-of-conduct) |
 | [Syntax Conf](https://2018.syntaxcon.com) | Charlston 🇺🇸 | June 1-2 | JavaScript | ❓ | [✅](https://2018.syntaxcon.com/about/code-of-conduct/) |
 | [NDC Oslo](https://ndcoslo.com/) | Oslo 🇳🇴 | June 11-15 | Development, Architecture| [✅](https://ndcoslo.com/page/call-for-papers/) | [✅](https://ndcoslo.com/page/code-of-conduct) |
