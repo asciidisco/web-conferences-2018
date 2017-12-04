@@ -34,7 +34,7 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [JSConf Iceland](https://2018.jsconf.is/) | Rejkjavik 🇮🇸 | March 1-2 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
-| [NGVikins](https://ngvikings.org) | Helsinki 🇫🇮 | March 1-2 | JavaScript, Angular | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | [✅](https://ngvikings.org/faq/) |
+| [NGVikings](https://ngvikings.org) | Helsinki 🇫🇮 | March 1-2 | JavaScript, Angular | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | [✅](https://ngvikings.org/faq/) |
 | [Concat](https://2018.conc.at/) | Salzburg 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
 | [QCon London](https://qconlondon.com/) | London 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
 | [ReactFest 2018](https://reactfest.com/) | London 🇬🇧  | March 9 | JavaScript, React | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
