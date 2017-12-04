@@ -25,6 +25,7 @@ Thank you 🙏
 | [FOSDEM 18](https://fosdem.org/2018/) | Brussels 🇧🇪 | February 3-4 | Open Source | ❌ | [✅](https://fosdem.org/2018/practical/conduct/) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
+| [Vue.JS Amsterdam](https://www.vuejs.amsterdam/) | Amsterdam 🇳🇱 | February 16 | JavaScript, Vue | ❌ | ❓ |
 | [Front Fest](http://frontfest.es/) | Madrid 🇪🇸 | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
 | [FITC Amsterdam](http://fitc.ca/event/am18/) | Amsterdam 🇳🇱 | February 21-23 | Design, Development, Inspiration | ❌ | [✅](http://fitc.ca/code-of-conduct/) |
 
