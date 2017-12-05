@@ -138,6 +138,7 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Webkongress Erlangen](https://www.webkongress.fau.de/) | Erlangen 🇩🇪 | September 11-13 | Web, JavaScript, HTML, CSS | [✅](https://www.webkongress.fau.de/call-for-paper/) | ❓ |
+| [JSFoo](https://jsfoo.in/) | Bangalore 🇮🇳 | September 15-16 | Web, JavaScript, Design, Ux | [✅](https://jsfoo.talkfunnel.com/2018/) | [✅](https://jsfoo.in/code-of-conduct/) |
 | [WebExpo](https://www.webexpo.net/) | Prague 🇨🇿 | September 21-22 | Web, JavaScript, Design, Ux | ❌  | [✅](http://confcodeofconduct.com/) |
 
 ## October
