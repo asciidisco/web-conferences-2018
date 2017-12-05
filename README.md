@@ -32,6 +32,7 @@ Thank you 🙏
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
 | [Front Fest](http://frontfest.es/) | Madrid 🇪🇸 | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
 | [FITC Amsterdam](http://fitc.ca/event/am18/) | Amsterdam 🇳🇱 | February 21-23 | Design, Development, Inspiration | ❌ | [✅](http://fitc.ca/code-of-conduct/) |
+| [Assert(JS)](https://www.assertjs.com/) | San Antonio 🇺🇸 | February 22 | JavaScript, Testing | ❌ | [✅](https://www.assertjs.com/code-of-conduct) |
 
 ## March
 
