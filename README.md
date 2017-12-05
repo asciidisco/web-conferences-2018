@@ -77,6 +77,7 @@ Thank you 🙏
 | [React Finland](https://react-finland.fi/) | Helsinki 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz 🇦🇹 | April 26 | Development, Architecture, DevOps | ❌ | [✅](https://devone.at/code-of-conduct/) |
+| [UphillConf](http://uphillconf.com/) | Bern 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
 
 ## May
 
