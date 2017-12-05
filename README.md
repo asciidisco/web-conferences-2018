@@ -28,6 +28,7 @@ Thank you 🙏
 | [Pacific NW Drupal Summit](https://pnwdrupalsummit.org/2018/) | Portland 🇺🇸 | February 3-4 | Drupal, PHP, Symfony, Frontend, Being Human | ❌ | [✅](https://pnwdrupalsummit.org/2018/code-conduct) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Smashing Conf London](https://smashingconf.com/) | London 🇬🇧 | February 7-8 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
+| [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) | Minsk 🇧🇾 | February 10-11 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://2018.conf.rollingscopes.com/codeofconduct.html) |
 | [SustainableUX](http://sustainableux.com/) | Online 🌐 | February 15 | UX, Design | ❌ | [✅](http://sustainableux.com/codeofconduct/) |
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
 | [Front Fest](http://frontfest.es/) | Madrid 🇪🇸 | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
