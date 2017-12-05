@@ -24,7 +24,6 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [ng-europe](https://ngeurope.org/) | Paris 🇫🇷 | February 1-2 | JavaScript, Angular | ❌ | [✅](http://confcodeofconduct.com/) |
-| [FOSDEM 18](https://fosdem.org/2018/) | Brussels 🇧🇪 | February 3-4 | Open Source | ❌ | [✅](https://fosdem.org/2018/practical/conduct/) |
 | [Pacific NW Drupal Summit](https://pnwdrupalsummit.org/2018/) | Portland 🇺🇸 | February 3-4 | Drupal, PHP, Symfony, Frontend, Being Human | ❌ | [✅](https://pnwdrupalsummit.org/2018/code-conduct) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Smashing Conf London](https://smashingconf.com/) | London 🇬🇧 | February 7-8 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
@@ -44,7 +43,6 @@ Thank you 🙏
 | [TOCA ME](http://www.toca-me.com/) | Munich 🇩🇪 | March 3 | Design, Inspiration | ❌ | ❓ |
 | [QCon London](https://qconlondon.com/) | London 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
 | [ReactFest 2018](https://reactfest.com/) | London 🇬🇧  | March 9 | JavaScript, React | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
-| [Voxxed Days Vienna](https://voxxeddays.com/vienna/) | Vienna 🇦🇹 | March 12-13 | Development, Performance, Architecture | [✅](https://www.papercall.io/vxv18) |❓ |
 | [Internet of Things Conference](https://iotcon.de/de/) | Munich 🇩🇪 | March 12-14 | IoT | ❌ | ❓ |
 | [Emberconf](http://emberconf.com/) | Portland 🇺🇸 | March 13-14 | JavaScript, Ember | [✅ ](https://cfp.emberconf.com/events/emberconf-2018)| [✅](http://emberconf.com/code-of-conduct.html) |
 | [UpFrontConf](http://upfrontconf.com/) | Manchester 🇬🇧  | March 16 | Frontend, HTML, CSS, JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLScg8giABm8oKs161VIK8nIpwMt5IXyeL4gcm8DWu_Z-2_d3GQ/viewform) | [✅](http://upfrontconf.com/code-of-conduct/) |
@@ -101,7 +99,6 @@ Thank you 🙏
 | [Building IoT](https://www.buildingiot.de) | Cologne 🇩🇪 | June 1-2 | JavaScript | [✅](https://www.buildingiot.de/call.php) | [✅](https://www.buildingiot.de/konferenz_coc.php) |
 | [CSSconf EU](https://2018.cssconf.eu) | Berlin 🇩🇪 | June 1 | CSS | [✅](https://2018.cssconf.eu/call-for-speakers/) | [✅](https://2018.cssconf.eu/code-of-conduct/) |
 | [JSConf EU](https://2018.jsconf.eu/) | Berlin 🇩🇪 | June 2-3 | JavaScript | [✅](https://2018.jsconf.eu/call-for-speakers/) | [✅](https://2018.jsconf.eu/code-of-conduct/) |
-| [Webinale](https://webinale.de/de/) | Berlin 🇩🇪 | June 4-8 | JavaScript, PHP, HTML, CSS, CI/CD | ❓ | ❓ |
 | [Webconf.asia 2018](https://webconf.asia/) | Hong Kong 🇭🇰 | June 6-9 | Web | ❓ | [✅](https://webconf.asia/code-of-conduct) |
 | [pitercss_conf](https://pitercss.com/) | St. Petersburg 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | ❓ | ❓ |
 | [DevIT](http://devitconf.org/) | Thessaloniki  🇬🇷 | June 9 | JavaScript | ❓ | [✅](http://devitconf.org/code-of-conduct) |
