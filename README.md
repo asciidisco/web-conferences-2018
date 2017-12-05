@@ -90,6 +90,7 @@ Thank you 🙏
 | [YGLF](http://yglf.com.ua/) | Kyiv 🇺🇦 | May 24-25 | JavaScript, HTML, CSS | ✅ | [✅](http://yglf.com.ua/code-of-conduct) |
 | [Front Trends](https://2018.front-trends.com/) | Warsaw 🇵🇱 | May 24-25 | JavaScript, HTML, CSS | [✅](https://2018.front-trends.com/speaking-at-front-trends/) | [✅](https://2018.front-trends.com/code-of-conduct/) |
 | [DevSum18](http://www.devsum.se/) | Stockholm 🇸🇪 | May 31 - June 1 | Development, Architecture | [✅](http://www.devsum.se/cfp/) | [✅](http://www.devsum.se/code-of-conduct/) |
+| [Frontend United](http://frontendunited.org/) | Utrecht 🇳🇱 | May 31 - June 2 | JavaScript, HTML, CSS, Drupal | ❌ | [✅](http://2016.frontendunited.org/code-of-conduct) |
 
 ## June
 
