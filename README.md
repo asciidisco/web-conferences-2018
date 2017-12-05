@@ -131,6 +131,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [React Rally](http://www.reactrally.com/) | Salt Lake City 🇺🇸 | August 16-17 | JavaScript, React | ❓ | [✅](http://www.reactrally.com/conduct) |
 | [Form & Function Class 9](http://2018.formfunctionclass.com/) | Manila 🇵🇭 | August 18 | Design, UX , Frontend, Web | ❌  | ❓ |
 
 ## September
