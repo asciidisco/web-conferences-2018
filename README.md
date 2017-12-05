@@ -81,7 +81,7 @@ Thank you 🙏
 | [beyond tellerrand // Düsseldorf 2018](https://beyondtellerrand.com/) | Düsseldorf 🇩🇪 | May 7-9 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | Minnesota 🇺🇸 | May 7-10 | Development, Architecture | [✅](https://ndcminnesota.com/page/call-for-papers/) | [✅](https://ndcminnesota.com/page/code-of-conduct) |
 | [Codemotion](https://codemotionworld.com/) | Amsterdam 🇳🇱 | May 8-9 | Development, Architecture | [✅](http://speaker.codemotionworld.com/c4p.php) | [✅](https://codemotionworld.com/code-of-conduct/) |
-| [JSDay Italy](https://2018.jsday.it/) | Verona, IT | May 9-10 | JavaScript | [✅](https://cfp.jsday.it/) | [✅](https://2018.jsday.it/coc.html) |
+| [JSDay Italy](https://2018.jsday.it/) | Verona, 🇮🇹 | May 9-10 | JavaScript | [✅](https://cfp.jsday.it/) | [✅](https://2018.jsday.it/coc.html) |
 | [Devoxx UK](https://www.devoxx.co.uk/) | London 🇬🇧  | May 9-11 | Development, Architecture | [✅](https://cfp.devoxx.co.uk/) | ❓ |
 | [DeltaV Conference](https://2018.deltavconf.com/) | London 🇬🇧  | May 10-11 | Web, Performance | ❓ | [✅](https://2018.deltavconf.com/code-of-conduct) |
 | [React Europe](https://www.react-europe.org/) | Paris 🇫🇷 | May 17-18 | JavaScript, React | [✅](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp) | [✅](http://confcodeofconduct.com/) |
