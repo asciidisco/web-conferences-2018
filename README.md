@@ -23,6 +23,7 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [ng-europe](https://ngeurope.org/) | Paris 🇫🇷 | February 1-2 | JavaScript, Angular | ❌ | [✅](http://confcodeofconduct.com/) |
 | [FOSDEM 18](https://fosdem.org/2018/) | Brussels 🇧🇪 | February 3-4 | Open Source | ❌ | [✅](https://fosdem.org/2018/practical/conduct/) |
+| [Pacific NW Drupal Summit](https://pnwdrupalsummit.org/2018/) | Portland 🇺🇸 | February 3-4 | Drupal, PHP, Symfony, Frontend, Being Human | ❌ | [✅](https://pnwdrupalsummit.org/2018/code-conduct) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
 | [Vue.JS Amsterdam](https://www.vuejs.amsterdam/) | Amsterdam 🇳🇱 | February 16 | JavaScript, Vue | ❌ | ❓ |
