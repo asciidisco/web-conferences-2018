@@ -138,6 +138,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Technorama](https://techorama.nl/) | Ede 🇳🇱 | October 1-3 | Development, Architecture | ✅ | ❓ |
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver 🇨🇦 | October 10-12 | JavaScript | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
 
 ## November
