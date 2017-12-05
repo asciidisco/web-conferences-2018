@@ -53,7 +53,8 @@ Thank you 🙏
 | [JAZZCon](http://jazzcon.tech/) | New Orleans 🇺🇸 | March 21-23 | JavaScript, JS Frameworks, HTML5, CSS3 | [✅](http://jazzcon.tech/#cfp-content) | [✅](http://jazzcon.tech/#inline-content) |
 | [JSConf AU](http://2018.jsconfau.com/) | Melbourne 🇦🇺 | March 21-22 | JavaScript | [✅](http://2018.jsconfau.com/call-for-speakers) | [✅](http://2018.jsconfau.com/code-of-conduct) |
 | [Render Conf](https://2018.render-conf.com/) | Oxford 🇬🇧  | March 23 | JavaScript, HTML, CSS | [✅](https://docs.google.com/forms/d/e/1FAIpQLSe2AI2-tOT8-pHYN_rOtQItuNkJjDf-TjpunwCH6A9F6p8ihw/viewform) | [✅](https://2018.render-conf.com/code-of-conduct) |
-| [VUECONF.us](http://us.vuejs.org/) | New Orleans 🇺🇸 | March 26-28 | JavaScript, Vue | [✅ ](http://us.vuejs.org/call-for-papers)| [✅](http://us.vuejs.org/codeofconduct) |
+| [VUECONF.us](http://us.vuejs.org/) | New Orleans 🇺🇸 | March 26-28 | JavaScript, Vue | [✅](http://us.vuejs.org/call-for-papers)| [✅](http://us.vuejs.org/codeofconduct) |
+| [#PerfMatters](https://perfmattersconf.com/) | Redwood City 🇺🇸 | March 27-28 | Web, Performance | ❌ | [✅](https://perfmattersconf.com/code/) |
 
 ## April
 
