@@ -69,6 +69,7 @@ Thank you 🙏
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam 🇳🇱 | April 13 | JavaScript, React | [✅](https://goo.gl/forms/TXVpj5rIdSPP47bd2) | [✅](http://confcodeofconduct.com/) |
 | [Universal JS Day](https://2018.universaljsday.com/) | Ferrara 🇮🇹 | April 13 | JavaScript | [✅](https://2018.universaljsday.com/#cfp) | ❓ |
 | [UX + DEV Summit](https://uxdsummit.com/) | Fort Lauderdale 🇺🇸 | April 14-16 | Frontend, UX | ✅ | [✅](https://uxdsummit.com/call-for-speakers/) |
+| [Bulgaria Web Summit](https://bulgariawebsummit.com/) | Sofia 🇧🇬 | April 14 | HTML, CSS, JavaScript | ❓ | [✅](https://bulgariawebsummit.com/) |
 | [Smashing Conf San Francisco](https://smashingconf.com/sf-2018/) | San Francisco 🇺🇸 | April 17-18 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City 🇺🇸 | April 18-20 | JavaScript, AngularJS | [✅](https://goo.gl/forms/ExEPOnDxRRaQtC9C3) | [✅](https://www.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [JSHeroes](https://jsheroes.io/) | Cluj Napoca 🇷🇴 | April 18-20 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform) | [✅](https://jsheroes.io/code-of-conduct) |
