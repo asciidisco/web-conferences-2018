@@ -106,6 +106,7 @@ Thank you 🙏
 | [Building IoT](https://www.buildingiot.de) | Cologne 🇩🇪 | June 1-2 | JavaScript | [✅](https://www.buildingiot.de/call.php) | [✅](https://www.buildingiot.de/konferenz_coc.php) |
 | [CSSconf EU](https://2018.cssconf.eu) | Berlin 🇩🇪 | June 1 | CSS | [✅](https://2018.cssconf.eu/call-for-speakers/) | [✅](https://2018.cssconf.eu/code-of-conduct/) |
 | [JSConf EU](https://2018.jsconf.eu/) | Berlin 🇩🇪 | June 2-3 | JavaScript | [✅](https://2018.jsconf.eu/call-for-speakers/) | [✅](https://2018.jsconf.eu/code-of-conduct/) |
+| [Web Rebels](https://www.webrebels.org/) | Oslo 🇳🇴 | June 4-5 | Web, CSS, JavaScript | ❓ | [✅](http://jsconf.com/codeofconduct.html) |
 | [Webconf.asia 2018](https://webconf.asia/) | Hong Kong 🇭🇰 | June 6-9 | Web | ❓ | [✅](https://webconf.asia/code-of-conduct) |
 | [pitercss_conf](https://pitercss.com/) | St. Petersburg 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | ❓ | ❓ |
 | [DevIT](http://devitconf.org/) | Thessaloniki  🇬🇷 | June 9 | JavaScript | ❓ | [✅](http://devitconf.org/code-of-conduct) |
