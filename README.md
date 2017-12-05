@@ -25,6 +25,7 @@ Thank you 🙏
 | [FOSDEM 18](https://fosdem.org/2018/) | Brussels 🇧🇪 | February 3-4 | Open Source | ❌ | [✅](https://fosdem.org/2018/practical/conduct/) |
 | [Pacific NW Drupal Summit](https://pnwdrupalsummit.org/2018/) | Portland 🇺🇸 | February 3-4 | Drupal, PHP, Symfony, Frontend, Being Human | ❌ | [✅](https://pnwdrupalsummit.org/2018/code-conduct) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
+| [Smashing Conf London](https://smashingconf.com/) | London 🇬🇧 | February 7-8 | Frontend, Web, HTML, CSS, JavaScrip | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
 | [Front Fest](http://frontfest.es/) | Madrid 🇪🇸 | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
 | [FITC Amsterdam](http://fitc.ca/event/am18/) | Amsterdam 🇳🇱 | February 21-23 | Design, Development, Inspiration | ❌ | [✅](http://fitc.ca/code-of-conduct/) |
@@ -60,6 +61,7 @@ Thank you 🙏
 | [International JavaScript Conference](https://javascript-conference.com/) | London 🇬🇧  | April 11-13 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam 🇳🇱 | April 13 | JavaScript, React | [✅](https://goo.gl/forms/TXVpj5rIdSPP47bd2) | [✅](http://confcodeofconduct.com/) |
 | [UX + DEV Summit](https://uxdsummit.com/) | Fort Lauderdale 🇺🇸 | April 14-16 | Frontend, UX | ✅ | [✅](https://uxdsummit.com/call-for-speakers/) |
+| [Smashing Conf San Francisco](https://smashingconf.com/sf-2018/) | San Francisco 🇺🇸 | April 17-18 | Frontend, Web, HTML, CSS, JavaScrip | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City 🇺🇸 | April 18-20 | JavaScript, AngularJS | [✅](https://goo.gl/forms/ExEPOnDxRRaQtC9C3) | [✅](https://www.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [JSHeroes](https://jsheroes.io/) | Cluj Napoca 🇷🇴 | April 18-20 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform) | [✅](https://jsheroes.io/code-of-conduct) |
 | [DevExperience](http://devexperience.ro/) | Iasi 🇷🇴 | April 19-21 | Development, Architecture | ❌ | ❓ |
@@ -97,6 +99,7 @@ Thank you 🙏
 | [Fluent](https://conferences.oreilly.com/fluent/fl-ca/) | San Jose 🇺🇸 | June 11-14 | JavaScript, Performance, Web | [✅](https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606) | [✅](http://www.oreilly.com/conferences/code-of-conduct.html) |
 | [CSS Day](https://cssday.nl/2018) | Amsterdam 🇳🇱 | June 14-15 | CSS, UX | ❌ | [✅](https://cssday.nl/2018/contact#code-of-conduct) |
 | [EnterJS](http://www.enterjs.de/) | Darmstadt 🇩🇪 | June 19-21 | JavaScript | [✅](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
+| [Smashing Conf Toronto](https://smashingconf.com/toronto-2018/) | Toronto 🇨🇦 | June 26-27 | Frontend, Web, HTML, CSS, JavaScrip | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 
 ## July
 
