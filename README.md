@@ -15,6 +15,7 @@ Thank you 🙏
 | [beyond tellerrand // MUNICH 2018](https://beyondtellerrand.com/) | Munich 🇩🇪 | January 15-17 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC London](https://ndc-london.com/) | London 🇬🇧 | January 15-19 |  Frontend, Backend | ❌ | [✅](https://ndc-london.com/page/code-of-conduct) |
 | [Script 18](https://scriptconf.org/) | Linz 🇦🇹 | January 19 | JavaScript | ❌ | [✅](https://scriptconf.org/code-of-conduct/) |
+| [JSConf.Asia 2018](https://2018.jsconf.asia/) | Singapore 🇸🇬 | January 25-27 | JavaScript, CSS, Web | [✅](https://contribute.jsconf.asia/) | [✅](https://2016.devfest.asia/code-of-conduct/) |
 | [AgentConf](https://www.agent.sh/) | Dornbirn 🇦🇹 | January 25-28 | JavaScript, Web | ❌ | [✅](https://www.agent.sh/coc) |
 
 ## February
@@ -85,13 +86,14 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Syntax Conf](https://2018.syntaxcon.com) | Charlston 🇺🇸 | June 1-2 | JavaScript | ❓ | [✅](https://2018.syntaxcon.com/about/code-of-conduct/) |
 | [Building IoT](https://www.buildingiot.de) | Cologne 🇩🇪 | June 1-2 | JavaScript | [✅](https://www.buildingiot.de/call.php) | [✅](https://www.buildingiot.de/konferenz_coc.php) |
 | [Webinale](https://webinale.de/de/) | Berlin 🇩🇪 | June 4-8 | JavaScript, PHP, HTML, CSS, CI/CD | ❓ | ❓ |
+| [Webconf.asia 2018](https://webconf.asia/) | Hong Kong 🇭🇰 | June 6-9 | Web | ❓ | [✅](https://webconf.asia/code-of-conduct) |
 | [pitercss_conf](https://pitercss.com/) | St. Petersburg 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | ❓ | ❓ |
 | [DevIT](http://devitconf.org/) | Thessaloniki  🇬🇷 | June 9 | JavaScript | ❓ | [✅](http://devitconf.org/code-of-conduct) |
-| [Syntax Conf](https://2018.syntaxcon.com) | Charlston 🇺🇸 | June 1-2 | JavaScript | ❓ | [✅](https://2018.syntaxcon.com/about/code-of-conduct/) |
-| [NDC Oslo](https://ndcoslo.com/) | Oslo 🇳🇴 | June 11-15 | Development, Architecture| [✅](https://ndcoslo.com/page/call-for-papers/) | [✅](https://ndcoslo.com/page/code-of-conduct) |
 | [Fluent](https://conferences.oreilly.com/fluent/fl-ca/) | San Jose 🇺🇸 | June 11-14 | JavaScript, Performance, Web | [✅](https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606) | [✅](http://www.oreilly.com/conferences/code-of-conduct.html) |
+| [NDC Oslo](https://ndcoslo.com/) | Oslo 🇳🇴 | June 11-15 | Development, Architecture| [✅](https://ndcoslo.com/page/call-for-papers/) | [✅](https://ndcoslo.com/page/code-of-conduct) |
 | [EnterJS](http://www.enterjs.de/) | Darmstadt 🇩🇪 | June 19-21 | JavaScript | [✅](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
 
 ## July
