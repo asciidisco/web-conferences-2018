@@ -15,6 +15,7 @@ Thank you 🙏
 | [Accessibility Club](https://colloq.io/events/accessibility-club/2018/munich/1) | Munich 🇩🇪 | January 15 |  Frontend, A11y | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [beyond tellerrand // MUNICH 2018](https://beyondtellerrand.com/) | Munich 🇩🇪 | January 15-17 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC London](https://ndc-london.com/) | London 🇬🇧 | January 15-19 |  Frontend, Backend | ❌ | [✅](https://ndc-london.com/page/code-of-conduct) |
+| [ReactFoo](https://reactfoo.in/2018-pune/) | Pune 🇮🇳 | January 19-20 |  JavaScript, React | [✅](https://reactfoo.talkfunnel.com/2017-pune/) | [✅](https://reactfoo.in/code-of-conduct) |
 | [Script 18](https://scriptconf.org/) | Linz 🇦🇹 | January 19 | JavaScript | ❌ | [✅](https://scriptconf.org/code-of-conduct/) |
 | [JSConf.Asia 2018](https://2018.jsconf.asia/) | Singapore 🇸🇬 | January 25-27 | JavaScript, CSS, Web | [✅](https://contribute.jsconf.asia/) | [✅](https://2016.devfest.asia/code-of-conduct/) |
 | [AgentConf](https://www.agent.sh/) | Dornbirn 🇦🇹 | January 25-28 | JavaScript, Web | ❌ | [✅](https://www.agent.sh/coc) |
