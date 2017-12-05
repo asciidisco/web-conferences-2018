@@ -67,6 +67,7 @@ Thank you 🙏
 | [Web à Québec](http://www.webaquebec.org/en) | Québec 🇨🇦 | April 10-12 | Development, Web | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfBycxEH2ksIK0fnrXYTSZkb2EQSMFHwyTkC1j36NyyVlKNGQ/closedform) | [✅](http://www.webaquebec.org/code-de-conduite) |
 | [International JavaScript Conference](https://javascript-conference.com/) | London 🇬🇧  | April 11-13 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam 🇳🇱 | April 13 | JavaScript, React | [✅](https://goo.gl/forms/TXVpj5rIdSPP47bd2) | [✅](http://confcodeofconduct.com/) |
+| [Universal JS Day](https://2018.universaljsday.com/) | Ferrara 🇮🇹 | April 13 | JavaScript | [✅](https://2018.universaljsday.com/#cfp) | ❓ |
 | [UX + DEV Summit](https://uxdsummit.com/) | Fort Lauderdale 🇺🇸 | April 14-16 | Frontend, UX | ✅ | [✅](https://uxdsummit.com/call-for-speakers/) |
 | [Smashing Conf San Francisco](https://smashingconf.com/sf-2018/) | San Francisco 🇺🇸 | April 17-18 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City 🇺🇸 | April 18-20 | JavaScript, AngularJS | [✅](https://goo.gl/forms/ExEPOnDxRRaQtC9C3) | [✅](https://www.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
@@ -83,7 +84,7 @@ Thank you 🙏
 | [beyond tellerrand // Düsseldorf 2018](https://beyondtellerrand.com/) | Düsseldorf 🇩🇪 | May 7-9 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | Minnesota 🇺🇸 | May 7-10 | Development, Architecture | [✅](https://ndcminnesota.com/page/call-for-papers/) | [✅](https://ndcminnesota.com/page/code-of-conduct) |
 | [Codemotion](https://codemotionworld.com/) | Amsterdam 🇳🇱 | May 8-9 | Development, Architecture | [✅](http://speaker.codemotionworld.com/c4p.php) | [✅](https://codemotionworld.com/code-of-conduct/) |
-| [JSDay Italy](https://2018.jsday.it/) | Verona, 🇮🇹 | May 9-10 | JavaScript | [✅](https://cfp.jsday.it/) | [✅](https://2018.jsday.it/coc.html) |
+| [JSDay Italy](https://2018.jsday.it/) | Verona 🇮🇹 | May 9-10 | JavaScript | [✅](https://cfp.jsday.it/) | [✅](https://2018.jsday.it/coc.html) |
 | [Devoxx UK](https://www.devoxx.co.uk/) | London 🇬🇧  | May 9-11 | Development, Architecture | [✅](https://cfp.devoxx.co.uk/) | ❓ |
 | [DeltaV Conference](https://2018.deltavconf.com/) | London 🇬🇧  | May 10-11 | Web, Performance | ❓ | [✅](https://2018.deltavconf.com/code-of-conduct) |
 | [React Europe](https://www.react-europe.org/) | Paris 🇫🇷 | May 17-18 | JavaScript, React | [✅](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp) | [✅](http://confcodeofconduct.com/) |
