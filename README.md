@@ -12,7 +12,6 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Front - UX & Product Management Bootcamp 2018](https://www.frontutah.com/) | Park City, 🇺🇸 | January 4-5 | Frontend, UX | ❌ | [✅](https://www.frontutah.com/code-of-conduct) |
 | [CodeMash 2018](http://www.codemash.org/) | Sandusky 🇺🇸 | January 9-12 |  Java, .NET, Ruby, Python, PHP | ❌ | [✅](http://www.codemash.org/codemash-code-conduct/) |
-| [Accessibility Club](https://colloq.io/events/accessibility-club/2018/munich/1) | Munich 🇩🇪 | January 15 |  Frontend, A11y | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [beyond tellerrand // MUNICH 2018](https://beyondtellerrand.com/) | Munich 🇩🇪 | January 15-17 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC London](https://ndc-london.com/) | London 🇬🇧 | January 15-19 |  Frontend, Backend | ❌ | [✅](https://ndc-london.com/page/code-of-conduct) |
 | [Script 18](https://scriptconf.org/) | Linz 🇦🇹 | January 19 | JavaScript | ❌ | [✅](https://scriptconf.org/code-of-conduct/) |
@@ -26,8 +25,7 @@ Thank you 🙏
 | [FOSDEM 18](https://fosdem.org/2018/) | Brussels 🇧🇪 | February 3-4 | Open Source | ❌ | [✅](https://fosdem.org/2018/practical/conduct/) |
 | [Pacific NW Drupal Summit](https://pnwdrupalsummit.org/2018/) | Portland 🇺🇸 | February 3-4 | Drupal, PHP, Symfony, Frontend, Being Human | ❌ | [✅](https://pnwdrupalsummit.org/2018/code-conduct) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
-| [Smashing Conf London](https://smashingconf.com/) | London 🇬🇧 | February 7-8 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
-| [SustainableUX](http://sustainableux.com/) | Online 🌐 | February 15 | UX, Design | ❌ | [✅](http://sustainableux.com/codeofconduct/) |
+| [Smashing Conf London](https://smashingconf.com/) | London 🇬🇧 | February 7-8 | Frontend, Web, HTML, CSS, JavaScrip | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
 | [Front Fest](http://frontfest.es/) | Madrid 🇪🇸 | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
 | [FITC Amsterdam](http://fitc.ca/event/am18/) | Amsterdam 🇳🇱 | February 21-23 | Design, Development, Inspiration | ❌ | [✅](http://fitc.ca/code-of-conduct/) |
@@ -39,7 +37,6 @@ Thank you 🙏
 | [JSConf Iceland](https://2018.jsconf.is/) | Rejkjavik 🇮🇸 | March 1-2 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [NGVikings](https://ngvikings.org) | Helsinki 🇫🇮 | March 1-2 | JavaScript, Angular | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | [✅](https://ngvikings.org/faq/) |
 | [Concat](https://2018.conc.at/) | Salzburg 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
-| [TOCA ME](http://www.toca-me.com/) | Munich 🇩🇪 | March 3 | Design, Inspiration | ❌ | ❓ |
 | [QCon London](https://qconlondon.com/) | London 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
 | [ReactFest 2018](https://reactfest.com/) | London 🇬🇧  | March 9 | JavaScript, React | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
 | [Voxxed Days Vienna](https://voxxeddays.com/vienna/) | Vienna 🇦🇹 | March 12-13 | Development, Performance, Architecture | [✅](https://www.papercall.io/vxv18) |❓ |
@@ -61,7 +58,6 @@ Thank you 🙏
 | [Webcon](http://webcon.illinois.edu/schedule.shtml) | Illinois 🇺🇸 | April 4-6 | JavaScript, HTML, CSS, Web | [✅](http://webmasters.illinois.edu/#about) | [✅](http://webcon.illinois.edu/code.pdf) |
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle 🇬🇧  | April 5 | JavaScript, HTML, CSS | [✅](https://2018.frontendne.co.uk/call-for-speakers.html) | [✅](https://2018.frontendne.co.uk/code-of-conduct.html) |
 | [Pro Web](https://2018.programming-conference.org) | Nice 🇫🇷 | April 9-12 | Development, Web | [✅](https://2018.programming-conference.org/track/proweb-2018-papers) |❓ |
-| [Web à Québec](http://www.webaquebec.org/en) | Québec 🇨🇦 | April 10-12 | Development, Web | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfBycxEH2ksIK0fnrXYTSZkb2EQSMFHwyTkC1j36NyyVlKNGQ/closedform) | [✅](http://www.webaquebec.org/code-de-conduite) |
 | [International JavaScript Conference](https://javascript-conference.com/) | London 🇬🇧  | April 11-13 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam 🇳🇱 | April 13 | JavaScript, React | [✅](https://goo.gl/forms/TXVpj5rIdSPP47bd2) | [✅](http://confcodeofconduct.com/) |
 | [UX + DEV Summit](https://uxdsummit.com/) | Fort Lauderdale 🇺🇸 | April 14-16 | Frontend, UX | ✅ | [✅](https://uxdsummit.com/call-for-speakers/) |
@@ -69,7 +65,7 @@ Thank you 🙏
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City 🇺🇸 | April 18-20 | JavaScript, AngularJS | [✅](https://goo.gl/forms/ExEPOnDxRRaQtC9C3) | [✅](https://www.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [JSHeroes](https://jsheroes.io/) | Cluj Napoca 🇷🇴 | April 18-20 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform) | [✅](https://jsheroes.io/code-of-conduct) |
 | [DevExperience](http://devexperience.ro/) | Iasi 🇷🇴 | April 19-21 | Development, Architecture | ❌ | ❓ |
-| [#devone](https://devone.at/) | Linz 🇦🇹 | April 26 | Development, Architecture, DevOps | ❌ | [✅](https://devone.at/code-of-conduct/) |
+| [React Finland](https://react-finland.fi/) | Helsinki 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
 
 ## May
 
@@ -97,7 +93,6 @@ Thank you 🙏
 | [CSSconf EU](https://2018.cssconf.eu) | Berlin 🇩🇪 | June 1 | CSS | [✅](https://2018.cssconf.eu/call-for-speakers/) | [✅](https://2018.cssconf.eu/code-of-conduct/) |
 | [JSConf EU](https://2018.jsconf.eu/) | Berlin 🇩🇪 | June 2-3 | JavaScript | [✅](https://2018.jsconf.eu/call-for-speakers/) | [✅](https://2018.jsconf.eu/code-of-conduct/) |
 | [Webinale](https://webinale.de/de/) | Berlin 🇩🇪 | June 4-8 | JavaScript, PHP, HTML, CSS, CI/CD | ❓ | ❓ |
-| [Webconf.asia](https://webconf.asia/) | Hong Kong 🇭🇰 | June 6-9 | Frontend, Web, HTML, CSS, JavaScript | ❌  | ❓ |
 | [pitercss_conf](https://pitercss.com/) | St. Petersburg 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | ❓ | ❓ |
 | [DevIT](http://devitconf.org/) | Thessaloniki  🇬🇷 | June 9 | JavaScript | ❓ | [✅](http://devitconf.org/code-of-conduct) |
 | [Syntax Conf](https://2018.syntaxcon.com) | Charlston 🇺🇸 | June 1-2 | JavaScript | ❓ | [✅](https://2018.syntaxcon.com/about/code-of-conduct/) |
@@ -105,7 +100,7 @@ Thank you 🙏
 | [Fluent](https://conferences.oreilly.com/fluent/fl-ca/) | San Jose 🇺🇸 | June 11-14 | JavaScript, Performance, Web | [✅](https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606) | [✅](http://www.oreilly.com/conferences/code-of-conduct.html) |
 | [CSS Day](https://cssday.nl/2018) | Amsterdam 🇳🇱 | June 14-15 | CSS, UX | ❌ | [✅](https://cssday.nl/2018/contact#code-of-conduct) |
 | [EnterJS](http://www.enterjs.de/) | Darmstadt 🇩🇪 | June 19-21 | JavaScript | [✅](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
-| [Smashing Conf Toronto](https://smashingconf.com/toronto-2018/) | Toronto 🇨🇦 | June 26-27 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
+| [Smashing Conf Toronto](https://smashingconf.com/toronto-2018/) | Toronto 🇨🇦 | June 26-27 | Frontend, Web, HTML, CSS, JavaScrip | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 
 ## July
 
@@ -121,7 +116,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
-| [Form & Function Class 9](http://2018.formfunctionclass.com/) | Manila 🇵🇭 | August 18 | Design, UX , Frontend, Web | ❌  | ❓ |
+| None yet |
 
 ## September
 
@@ -140,7 +135,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
-| [BRING IT TOGETHER](http://bringittogether.ca/) | Niagara Falls 🇨🇦 | November 8-10 | Web, Education | ❌  | [✅](http://bringittogether.ca/anti-harassement-statement-declaration-contre-lharcelement/) |
+| None yet |
 
 ## December
 
