@@ -75,6 +75,7 @@ Thank you 🙏
 | [JSHeroes](https://jsheroes.io/) | Cluj Napoca 🇷🇴 | April 18-20 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform) | [✅](https://jsheroes.io/code-of-conduct) |
 | [DevExperience](http://devexperience.ro/) | Iasi 🇷🇴 | April 19-21 | Development, Architecture | ❌ | ❓ |
 | [React Finland](https://react-finland.fi/) | Helsinki 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
+| [FEDC](http://frontenddesignconference.com/) | St. Petersburg 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz 🇦🇹 | April 26 | Development, Architecture, DevOps | ❌ | [✅](https://devone.at/code-of-conduct/) |
 
 ## May
