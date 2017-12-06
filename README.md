@@ -108,7 +108,7 @@ Thank you 🙏
 | [JSConf EU](https://2018.jsconf.eu/) | Berlin, Germany 🇩🇪  | June 2-3 | JavaScript | [✅](https://2018.jsconf.eu/call-for-speakers/) | [✅](https://2018.jsconf.eu/code-of-conduct/) |
 | [Web Rebels](https://www.webrebels.org/) | Oslo, Norway 🇳🇴 | June 4-5 | Web, CSS, JavaScript | ❓ | [✅](http://jsconf.com/codeofconduct.html) |
 | [Webconf.asia 2018](https://webconf.asia/) | Hong Kong 🇭🇰 | June 6-9 | Web | ❓ | [✅](https://webconf.asia/code-of-conduct) |
-| [pitercss_conf](https://pitercss.com/) | St. Petersburg, Russia 🇷🇺 | June 8-9 | HTML, CSS, JavaScript | ❓ | ❓ |
+| [pitercss_conf](https://pitercss.com/) | St. Petersburg, Russia 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | ❓ | ❓ |
 | [Best of Web](http://bestofweb.paris/) | Paris, France 🇫🇷  | June 7-8 | HTML, CSS, JavaScript | [✅](https://checkout.eventlama.com/#/events/best-of-web-2018/cfp) | [✅](http://confcodeofconduct.com/) |
 | [DevIT](http://devitconf.org/) | Thessaloniki , Greece 🇬🇷 | June 9 | JavaScript | ❓ | [✅](http://devitconf.org/code-of-conduct) |
 | [Fluent](https://conferences.oreilly.com/fluent/fl-ca/) | San Jose, USA 🇺🇸 | June 11-14 | JavaScript, Performance, Web | [✅](https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606) | [✅](http://www.oreilly.com/conferences/code-of-conduct.html) |
