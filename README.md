@@ -65,7 +65,6 @@ Thank you 🙏
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle, UK 🇬🇧  | April 5 | JavaScript, HTML, CSS | [✅](https://2018.frontendne.co.uk/call-for-speakers.html) | [✅](https://2018.frontendne.co.uk/code-of-conduct.html) |
 | [Pro Web](https://2018.programming-conference.org) | Nice, France 🇫🇷 | April 9-12 | Development, Web | [✅](https://2018.programming-conference.org/track/proweb-2018-papers) |❓ |
 | [Web à Québec](http://www.webaquebec.org/en) | Québec, Canada 🇨🇦 | April 10-12 | Development, Web | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfBycxEH2ksIK0fnrXYTSZkb2EQSMFHwyTkC1j36NyyVlKNGQ/closedform) | [✅](http://www.webaquebec.org/code-de-conduite) |
-| [International JavaScript Conference](https://javascript-conference.com/) | London, UK 🇬🇧  | April 11-13 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands 🇳🇱 | April 13 | JavaScript, React | [✅](https://goo.gl/forms/TXVpj5rIdSPP47bd2) | [✅](http://confcodeofconduct.com/) |
 | [Universal JS Day](https://2018.universaljsday.com/) | Ferrara, Italy 🇮🇹 | April 13 | JavaScript | [✅](https://2018.universaljsday.com/#cfp) | ❓ |
 | [UX + DEV Summit](https://uxdsummit.com/) | Fort Lauderdale, USA 🇺🇸 | April 14-16 | Frontend, UX | ✅ | [✅](https://uxdsummit.com/call-for-speakers/) |
