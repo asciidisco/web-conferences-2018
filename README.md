@@ -6,6 +6,8 @@ Thank you 🙏
 
 > If you want to discover conferences, host events or want to let others know that you´re attending, check out: [Colloq](https://colloq.io/)
 
+> An JSON-API for this list is available: See [API Doc](./API.md)
+
 ## January
 
 | Event | Location | Date | Topic | CFP | CoC |
