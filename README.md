@@ -116,7 +116,8 @@ Thank you 🙏
 | [ConvergeSE](http://convergese.com/) | Columbia, USA 🇺🇸 | June 13-15 | Development, Web | ❓ | ❓ |
 | [NDC Oslo](https://ndcoslo.com/) | Oslo, Norway 🇳🇴 | June 11-15 | Development, Architecture| [✅](https://ndcoslo.com/page/call-for-papers/) | [✅](https://ndcoslo.com/page/code-of-conduct) |
 | [CSS Day](https://cssday.nl/2018) | Amsterdam, The Netherlands 🇳🇱 | June 14-15 | CSS, UX | ❌ | [✅](https://cssday.nl/2018/contact#code-of-conduct) |
-| [EnterJS](http://www.enterjs.de/) | Darmstadt, Germany 🇩🇪  | June 19-21 | JavaScript | [✅](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
+| [GraphQL Europe 2018](https://www.graphql-europe.org/) | Berlin, Germany 🇩🇪 | June 15 | JavaScript, React, GraphQL | [✅](https://www.papercall.io/graphql-eu) | [✅](https://www.graphql-europe.org/code-of-conduct/) |
+| [EnterJS](http://www.enterjs.de/) | Darmstadt, Germany 🇩🇪 | June 19-21 | JavaScript | [✅](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
 | [Smashing Conf Toronto](https://smashingconf.com/toronto-2018/) | Toronto, Canada 🇨🇦 | June 26-27 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 
 ## July
