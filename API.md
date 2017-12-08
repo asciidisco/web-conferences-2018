@@ -80,4 +80,15 @@ A sample API response looks like this:
     ],
 "November": [...],
 "December": [...]
- ```
+```
+ 
+## Usage
+ 
+Fetch the data from your browser javascript like this:
+
+```javascript
+fetch('https://webconf-api-2018.glitch.me/')
+  .then(function(response) { return response.json(); })
+  .then(function(json) { console.dir(json) })
+```
+
