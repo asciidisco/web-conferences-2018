@@ -92,3 +92,10 @@ fetch('https://webconf-api-2018.glitch.me/')
   .then(json => console.dir(json))
 ```
 
+Using cURL:
+
+```bash
+curl 'https://webconf-api-2018.glitch.me/'
+```
+
+
