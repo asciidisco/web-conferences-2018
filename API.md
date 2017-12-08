@@ -27,31 +27,6 @@ A sample API response looks like this:
 "September": [...],
 "October": [
         {
-            "name": "Technorama",
-            "url": "https://techorama.nl/",
-            "location": {
-                "city": "Ede",
-                "country": "The",
-                "emoji_country": "Netherlands"
-            },
-            "date": {
-                "start": "10-1-2018",
-                "end": "10-3-2018"
-            },
-            "tags": [
-                "Development",
-                "Architecture"
-            ],
-            "cfp": {
-                "has_cfp": true,
-                "link": ""
-            },
-            "coc": {
-                "has_coc": false,
-                "link": ""
-            }
-        },
-        {
             "name": "JS Interactive",
             "url": "http://events.linuxfoundation.org/events/js-interactive",
             "location": {
