@@ -88,7 +88,7 @@ Fetch the data from your browser javascript like this:
 
 ```javascript
 fetch('https://webconf-api-2018.glitch.me/')
-  .then(function(response) { return response.json(); })
-  .then(function(json) { console.dir(json) })
+  .then(response => response.json())
+  .then(json => console.dir(json))
 ```
 
