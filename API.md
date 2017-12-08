@@ -84,7 +84,7 @@ A sample API response looks like this:
  
 ## Usage
  
-Fetch the data from your browser javascript like this:
+Fetch the data from your browser like this:
 
 ```javascript
 fetch('https://webconf-api-2018.glitch.me/')
@@ -98,4 +98,28 @@ Using cURL:
 curl 'https://webconf-api-2018.glitch.me/'
 ```
 
+Usng Node.js:
 
+```javascript
+const https = require('https')
+const fetch_confs = () => {
+  return new Promise((resolve, reject) => {
+    https.get('https://webconf-api-2018.glitch.me/', res => {
+      let contents = ''
+      res.on('data', data => contents += data)
+      res.on('end', () => resolve(JSON.parse(contents)))
+    })
+  })
+}
+fetch_confs.then(console.log)
+```
+
+Using Python and Requests:
+
+```python
+import requests
+response = requests.get('https://webconf-api-2018.glitch.me/')
+print response.json()
+```
+
+  })
