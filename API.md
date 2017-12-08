@@ -121,5 +121,3 @@ import requests
 response = requests.get('https://webconf-api-2018.glitch.me/')
 print response.json()
 ```
-
-  })
