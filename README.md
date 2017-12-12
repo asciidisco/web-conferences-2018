@@ -27,6 +27,7 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [ng-europe](https://ngeurope.org/) | Paris, France 🇫🇷 | February 1-2 | JavaScript, Angular | ❌ | [✅](http://confcodeofconduct.com/) |
+| [rubyfuza](http://www.rubyfuza.org/) | Cape Town, South Africa 🇿🇦 | February 1-3| Ruby, Web | ❌ | [✅](http://www.rubyfuza.org/coc/) |
 | [Pacific NW Drupal Summit](https://pnwdrupalsummit.org/2018/) | Portland, USA 🇺🇸 | February 3-4 | Drupal, PHP, Symfony, Frontend, Being Human | ❌ | [✅](https://pnwdrupalsummit.org/2018/code-conduct) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm, Sweden 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Smashing Conf London](https://smashingconf.com/) | London, UK 🇬🇧 | February 7-8 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
@@ -47,6 +48,7 @@ Thank you 🙏
 | [Concat](https://2018.conc.at/) | Salzburg, Austria 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
 | [TOCA ME](http://www.toca-me.com/) | Munich, Germany 🇩🇪  | March 3 | Design, Inspiration | ❌ | ❓ |
 | [QCon London](https://qconlondon.com/) | London, UK 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
+| [ScaleConf](http://scaleconf.org/) | Cape Town, South Africa 🇿🇦 | March 8-9| Scalability, DevOps, Web | [✅](http://scaleconf.org/submit-talk/) | [✅](http://scaleconf.org/codeofconduct/) |
 | [ReactFest 2018](https://reactfest.com/) | London, UK 🇬🇧  | March 9 | JavaScript, React | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
 | [Internet of Things Conference](https://iotcon.de/de/) | Munich, Germany 🇩🇪  | March 12-14 | IoT | ❌ | ❓ |
 | [Emberconf](http://emberconf.com/) | Portland, USA 🇺🇸 | March 13-14 | JavaScript, Ember | [✅ ](https://cfp.emberconf.com/events/emberconf-2018)| [✅](http://emberconf.com/code-of-conduct.html) |
@@ -57,7 +59,9 @@ Thank you 🙏
 | [JSConf AU](http://2018.jsconfau.com/) | Melbourne, Australia 🇦🇺 | March 21-22 | JavaScript | [✅](http://2018.jsconfau.com/call-for-speakers) | [✅](http://2018.jsconfau.com/code-of-conduct) |
 | [Render Conf](https://2018.render-conf.com/) | Oxford, UK 🇬🇧  | March 23 | JavaScript, HTML, CSS | [✅](https://docs.google.com/forms/d/e/1FAIpQLSe2AI2-tOT8-pHYN_rOtQItuNkJjDf-TjpunwCH6A9F6p8ihw/viewform) | [✅](https://2018.render-conf.com/code-of-conduct) |
 | [VUECONF.us](http://us.vuejs.org/) | New Orleans, USA 🇺🇸 | March 26-28 | JavaScript, Vue | [✅](http://us.vuejs.org/call-for-papers)| [✅](http://us.vuejs.org/codeofconduct) |
+| [DevConf ZA](https://www.devconf.co.za/) | Johannesburg, South Africa 🇿🇦 | March 27 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
 | [#PerfMatters](https://perfmattersconf.com/) | Redwood City, USA 🇺🇸 | March 27-28 | Web, Performance | ❌ | [✅](https://perfmattersconf.com/code/) |
+| [DevConf ZA](https://www.devconf.co.za/) | Cape Town, South Africa 🇿🇦 | March 29 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
 
 ## April
 
