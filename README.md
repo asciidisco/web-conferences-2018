@@ -125,6 +125,7 @@ Thank you 🙏
 | [CSS Day](https://cssday.nl/2018) | Amsterdam, The Netherlands 🇳🇱 | June 14-15 | CSS, UX | ❌ | [✅](https://cssday.nl/2018/contact#code-of-conduct) |
 | [GraphQL Europe 2018](https://www.graphql-europe.org/) | Berlin, Germany 🇩🇪 | June 15 | JavaScript, React, GraphQL | [✅](https://www.papercall.io/graphql-eu) | [✅](https://www.graphql-europe.org/code-of-conduct/) |
 | [EnterJS](http://www.enterjs.de/) | Darmstadt, Germany 🇩🇪 | June 19-21 | JavaScript | [✅](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
+| [We Rise](https://werise.tech/) | Atlanta, USA 🇺🇸  | June 21-22 | Development, JavaScript, Women in Tech | [✅](https://www.papercall.io/we-rise-tech) | [✅](https://werise.tech/code-of-conduct/) |
 | [Smashing Conf Toronto](https://smashingconf.com/toronto-2018/) | Toronto, Canada 🇨🇦 | June 26-27 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 
 ## July
