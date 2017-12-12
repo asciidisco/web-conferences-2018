@@ -127,6 +127,7 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Fullstack 2018](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#program) | London, UK 🇬🇧  | July 11-13 | JavaScript, CSS, HTML, Web | [✅](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#get_involved) | [✅](https://skillsmatter.com/go/code-of-conduct) |
+| [Chain React](https://infinite.red/ChainReactConf) | Portland, USA 🇺🇸 | July 11-13 | JavaScript, React, React Native | [✅](https://docs.google.com/forms/d/e/1FAIpQLSds5yoYMF2pjYerv2SOpAOWwgG4_8e4fIle1h5XmbI4Q0LEgw/viewform) | ❓ |
 | [Curry On Conf](http://curry-on.org/) | Amsterdam, The Netherlands 🇳🇱 | July 16 | Development, Architecture | ❓ | [✅](http://curry-on.org/2017/code-of-conduct.html) |
 | [ScotlandCSS](http://scotlandcss.com/) | Edinburgh, UK 🇬🇧  | July 18 | CSS | [✅](https://www.papercall.io/scotlandcss-2018) | [✅](http://scotlandcss.com/codeofconduct/) |
 | [ScotlandJS](http://scotlandjs.com/) | Edinburgh, UK 🇬🇧  | July 19-20 | JavaScript | [✅](https://www.papercall.io/scotlandjs-2018) | [✅](http://scotlandjs.com/codeofconduct/) |
