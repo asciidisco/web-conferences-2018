@@ -68,6 +68,7 @@ Thank you 🙏
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle, UK 🇬🇧  | April 5 | JavaScript, HTML, CSS | [✅](https://2018.frontendne.co.uk/call-for-speakers.html) | [✅](https://2018.frontendne.co.uk/code-of-conduct.html) |
 | [Pro Web](https://2018.programming-conference.org) | Nice, France 🇫🇷 | April 9-12 | Development, Web | [✅](https://2018.programming-conference.org/track/proweb-2018-papers) |❓ |
 | [Web à Québec](http://www.webaquebec.org/en) | Québec, Canada 🇨🇦 | April 10-12 | Development, Web | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfBycxEH2ksIK0fnrXYTSZkb2EQSMFHwyTkC1j36NyyVlKNGQ/closedform) | [✅](http://www.webaquebec.org/code-de-conduite) |
+| [Web Directions Design](http://webdirections.org/design) | Melbourne, Australia 🇦🇺 | April 12-13 | User Research, CX, UX, UI, Product Design | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands 🇳🇱 | April 13 | JavaScript, React | [✅](https://goo.gl/forms/TXVpj5rIdSPP47bd2) | [✅](http://confcodeofconduct.com/) |
 | [Universal JS Day](https://2018.universaljsday.com/) | Ferrara, Italy 🇮🇹 | April 13 | JavaScript | [✅](https://2018.universaljsday.com/#cfp) | ❓ |
 | [UX + DEV Summit](https://uxdsummit.com/) | Fort Lauderdale, USA 🇺🇸 | April 14-16 | Frontend, UX | ✅ | [✅](https://uxdsummit.com/call-for-speakers/) |
@@ -135,6 +136,8 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Web Directions Leaders](http://webdirections.org/leaders) | Melbourne, Australia 🇦🇺 | August 1 | Team Lead, Culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
+| [Web Directions Code](http://webdirections.org/code) | Melbourne, Australia 🇦🇺 | August 2-3 | Web, JavaScript, HTML, CSS | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, USA 🇺🇸 | August 16-17 | JavaScript, React | ❓ | [✅](http://www.reactrally.com/conduct) |
 | [Form & Function Class 9](http://2018.formfunctionclass.com/) | Manila, Philippines 🇵🇭 | August 18 | Design, UX , Frontend, Web | ❌  | ❓ |
 
@@ -158,6 +161,9 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Web Directions AI](http://webdirections.org/ai) | Sydney, Australia 🇦🇺 | November 7 | AI | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
+| [Web Directions Culture](http://webdirections.org/culture) | Sydney, Australia 🇦🇺 | November 7 | Team Lead, Culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
+| [Web Directions Summit](http://webdirections.org/wds) | Sydney, Australia 🇦🇺 | November 8-9 | 2 Track, Web, JavaScript, HTML, CSS, User Research, CX, UX, UI, Product Design | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [BRING IT TOGETHER](http://bringittogether.ca/) | Niagara Falls, Canada 🇨🇦 | November 8-10 | Web, Education | ❌  | [✅](http://bringittogether.ca/anti-harassement-statement-declaration-contre-lharcelement/) |
 
 ## December
