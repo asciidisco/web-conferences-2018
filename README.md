@@ -20,6 +20,7 @@ Thank you 🙏
 | [ReactFoo](https://reactfoo.in/2018-pune/) | Pune, India 🇮🇳 | January 19-20 |  JavaScript, React | [✅](https://reactfoo.talkfunnel.com/2017-pune/) | [✅](https://reactfoo.in/code-of-conduct) |
 | [Script 18](https://scriptconf.org/) | Linz, Austria 🇦🇹 | January 19 | JavaScript | ❌ | [✅](https://scriptconf.org/code-of-conduct/) |
 | [JSConf.Asia 2018](https://2018.jsconf.asia/) | Singapore 🇸🇬 | January 25-27 | JavaScript, CSS, Web | [✅](https://contribute.jsconf.asia/) | [✅](https://2016.devfest.asia/code-of-conduct/) |
+| [Afrotech Fest 2018](https://afrotechfest.co.uk/) | London, UK 🇬🇧  | January 26-27 | Design, Development, Diversity and Inclusion | ❌ | [✅](https://www.afrotechfest.co.uk/coc/) |
 | [AgentConf](https://www.agent.sh/) | Dornbirn, Austria 🇦🇹 | January 25-28 | JavaScript, Web | ❌ | [✅](https://www.agent.sh/coc) |
 
 ## February
