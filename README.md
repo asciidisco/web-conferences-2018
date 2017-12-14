@@ -41,7 +41,6 @@ Thank you 🙏
 | [Assert(JS)](https://www.assertjs.com/) | San Antonio, USA 🇺🇸 | February 22 | JavaScript, Testing | ❌ | [✅](https://www.assertjs.com/code-of-conduct) |
 | [Iterate](https://www.iterateconf.io/) | San Francisco, USA 🇺🇸 | February 27 | Development, Architecture | ❌ | ❓ |
 
-
 ## March
 
 | Event | Location | Date | Topic | CFP | CoC |
