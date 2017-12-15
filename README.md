@@ -38,6 +38,7 @@ Thank you 🙏
 | [Front Fest](http://frontfest.es/) | Madrid, Spain 🇪🇸   | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
 | [FITC Amsterdam](http://fitc.ca/event/am18/) | Amsterdam, The Netherlands 🇳🇱 | February 21-23 | Design, Development, Inspiration | ❌ | [✅](http://fitc.ca/code-of-conduct/) |
 | [Assert(JS)](https://www.assertjs.com/) | San Antonio, USA 🇺🇸 | February 22 | JavaScript, Testing | ❌ | [✅](https://www.assertjs.com/code-of-conduct) |
+| [Voxxed Days CERN](https://voxxeddays.com/cern/) | Geneva, Switzerland 🇨🇭 | February 25 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [Iterate](https://www.iterateconf.io/) | San Francisco, USA 🇺🇸 | February 27 | Development, Architecture | ❌ | ❓ |
 
 ## March
@@ -50,6 +51,7 @@ Thank you 🙏
 | [Concat](https://2018.conc.at/) | Salzburg, Austria 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
 | [TOCA ME](http://www.toca-me.com/) | Munich, Germany 🇩🇪  | March 3 | Design, Inspiration | ❌ | ❓ |
 | [QCon London](https://qconlondon.com/) | London, UK 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
+| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland 🇨🇭 | March 8 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [ScaleConf](http://scaleconf.org/) | Cape Town, South Africa 🇿🇦 | March 8-9| Scalability, DevOps, Web | [✅](http://scaleconf.org/submit-talk/) | [✅](http://scaleconf.org/codeofconduct/) |
 | [ReactFest 2018](https://reactfest.com/) | London, UK 🇬🇧  | March 9 | JavaScript, React | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
 | [Internet of Things Conference](https://iotcon.de/de/) | Munich, Germany 🇩🇪  | March 12-14 | IoT | ❌ | ❓ |
@@ -169,6 +171,7 @@ Thank you 🙏
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | ✅ | ❓ |
 | [React JS Day](http://2018.reactjsday.it/) |  Verona, Italy 🇮🇹 | October 5 | JavaScript, React |[✅](https://goo.gl/forms/BKygQgXoJdUKIjaW2)| [✅](http://2018.reactjsday.it/coc.html) |
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
+| [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland 🇨🇭 | October 20 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [Blend Web Mix](http://www.blendwebmix.com/) | Lyon, France 🇫🇷 | October 24-25 | Web, JavaScript, Design, Ux | ❓ | [✅](http://www.blendwebmix.com/code-de-conduite/) |
 
 ## November
