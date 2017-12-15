@@ -46,6 +46,7 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [JSConf Iceland](https://2018.jsconf.is/) | Rejkjavik, Iceland 🇮🇸 | March 1-2 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [NGVikings](https://ngvikings.org) | Helsinki, Finland 🇫🇮 | March 1-2 | JavaScript, Angular | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | [✅](https://ngvikings.org/faq/) |
+| [The Lead Dev](https://austin2018.theleaddeveloper.com//) | Austin (TX), USA 🇺🇸 | March 2 | Development | ❌ | [✅](https://austin2018.theleaddeveloper.com/code-of-conduct) |
 | [Concat](https://2018.conc.at/) | Salzburg, Austria 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
 | [TOCA ME](http://www.toca-me.com/) | Munich, Germany 🇩🇪  | March 3 | Design, Inspiration | ❌ | ❓ |
 | [QCon London](https://qconlondon.com/) | London, UK 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
@@ -83,6 +84,7 @@ Thank you 🙏
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City, USA 🇺🇸 | April 18-20 | JavaScript, AngularJS | [✅](https://goo.gl/forms/ExEPOnDxRRaQtC9C3) | [✅](https://www.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [JSHeroes](https://jsheroes.io/) | Cluj Napoca, Romania 🇷🇴 | April 18-20 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform) | [✅](https://jsheroes.io/code-of-conduct) |
 | [DevExperience](http://devexperience.ro/) | Iasi, Romania 🇷🇴 | April 19-21 | Development, Architecture | ❌ | ❓ |
+| [The Lead Dev](https://newyork2018.theleaddeveloper.com//) | New York, USA 🇺🇸 | April 24 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
 | [React Finland](https://react-finland.fi/) | Helsinki, Finland 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg, USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | ❌ | [✅](https://devone.at/code-of-conduct/) |
@@ -128,6 +130,7 @@ Thank you 🙏
 | [GraphQL Europe 2018](https://www.graphql-europe.org/) | Berlin, Germany 🇩🇪 | June 15 | JavaScript, React, GraphQL | [✅](https://www.papercall.io/graphql-eu) | [✅](https://www.graphql-europe.org/code-of-conduct/) |
 | [EnterJS](http://www.enterjs.de/) | Darmstadt, Germany 🇩🇪 | June 19-21 | JavaScript | [✅](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
 | [We Rise](https://werise.tech/) | Atlanta, USA 🇺🇸  | June 21-22 | Development, JavaScript, Women in Tech | [✅](https://www.papercall.io/we-rise-tech) | [✅](https://werise.tech/code-of-conduct/) |
+| [The Lead Dev](https://upcoming.theleaddeveloper.com/) | London, UK 🇬🇧 | June 27-28 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
 | [Smashing Conf Toronto](https://smashingconf.com/toronto-2018/) | Toronto, Canada 🇨🇦 | June 26-27 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 
 ## July
