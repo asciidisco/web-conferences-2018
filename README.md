@@ -64,6 +64,7 @@ Thank you 🙏
 | [JSConf AU](http://2018.jsconfau.com/) | Melbourne, Australia 🇦🇺 | March 21-22 | JavaScript | [✅](http://2018.jsconfau.com/call-for-speakers) | [✅](http://2018.jsconfau.com/code-of-conduct) |
 | [Render Conf](https://2018.render-conf.com/) | Oxford, UK 🇬🇧  | March 23 | JavaScript, HTML, CSS | [✅](https://docs.google.com/forms/d/e/1FAIpQLSe2AI2-tOT8-pHYN_rOtQItuNkJjDf-TjpunwCH6A9F6p8ihw/viewform) | [✅](https://2018.render-conf.com/code-of-conduct) |
 | [VUECONF.us](http://us.vuejs.org/) | New Orleans, USA 🇺🇸 | March 26-28 | JavaScript, Vue | [✅](http://us.vuejs.org/call-for-papers)| [✅](http://us.vuejs.org/codeofconduct) |
+| [CITYJSCONF UK](https://www.cityjsconf.org/) | London, UK 🇬🇧  | March 26 | JavaScript| ✅](https://www.papercall.io/cfps/826/submissions/new) | [✅](http://jsconf.com/codeofconduct.html) |
 | [DevConf ZA](https://www.devconf.co.za/) | Johannesburg, South Africa 🇿🇦 | March 27 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
 | [#PerfMatters](https://perfmattersconf.com/) | Redwood City, USA 🇺🇸 | March 27-28 | Web, Performance | ❌ | [✅](https://perfmattersconf.com/code/) |
 | [DevConf ZA](https://www.devconf.co.za/) | Cape Town, South Africa 🇿🇦 | March 29 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
