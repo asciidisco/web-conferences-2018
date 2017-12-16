@@ -96,7 +96,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
-| [Codeland](http://codelandconf.com/) | New York, USA 🇺🇸 | May 4-5 | Development, Newcomers | [✅](http://codelandconf.com/#cfp) | [✅](http://codelandconf.com/coc/) |
+| [Codeland](http://codelandconf.com/) | New York, USA 🇺🇸 | May 4-5 | Development, Newcomers | ❌ | [✅](http://codelandconf.com/coc/) |
 | [beyond tellerrand // Düsseldorf 2018](https://beyondtellerrand.com/) | Düsseldorf, Germany 🇩🇪  | May 7-9 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | Minnesota, USA 🇺🇸 | May 7-10 | Development, Architecture | [✅](https://ndcminnesota.com/page/call-for-papers/) | [✅](https://ndcminnesota.com/page/code-of-conduct) |
 | [Codemotion](https://codemotionworld.com/) | Amsterdam, The Netherlands 🇳🇱 | May 8-9 | Development, Architecture | [✅](http://speaker.codemotionworld.com/c4p.php) | [✅](https://codemotionworld.com/code-of-conduct/) |
