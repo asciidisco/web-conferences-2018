@@ -170,6 +170,7 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | ✅ | ❓ |
+| [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia 🇨🇴 | October 5-6 | JavaScript, Node | [✅](http://cfp.jsconf.co/) | [✅](https://jsconf.co/codeofconduct) |
 | [React JS Day](http://2018.reactjsday.it/) |  Verona, Italy 🇮🇹 | October 5 | JavaScript, React |[✅](https://goo.gl/forms/BKygQgXoJdUKIjaW2)| [✅](http://2018.reactjsday.it/coc.html) |
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland 🇨🇭 | October 20 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
