@@ -86,6 +86,7 @@ Thank you 🙏
 | [Smashing Conf San Francisco](https://smashingconf.com/sf-2018/) | San Francisco, USA 🇺🇸 | April 17-18 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [ng-conf](https://www.ng-conf.org/) | Salt Lake City, USA 🇺🇸 | April 18-20 | JavaScript, AngularJS | [✅](https://goo.gl/forms/ExEPOnDxRRaQtC9C3) | [✅](https://www.ng-conf.org/wp-content/uploads/2017/03/Code-of-Conduct.pdf) |
 | [JSHeroes](https://jsheroes.io/) | Cluj Napoca, Romania 🇷🇴 | April 18-20 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform) | [✅](https://jsheroes.io/code-of-conduct) |
+| [MiXiT](https://mixitconf.org/en/) | Lyon, France 🇫🇷 | April 19-20 | Development, Architecture, DevOps, Design | [✅](https://mixitconf.org/en/cfp) | [✅](http://confcodeofconduct.com/index.html) |
 | [DevExperience](http://devexperience.ro/) | Iasi, Romania 🇷🇴 | April 19-21 | Development, Architecture | ❌ | ❓ |
 | [The Lead Dev](https://newyork2018.theleaddeveloper.com//) | New York, USA 🇺🇸 | April 24 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
 | [React Finland](https://react-finland.fi/) | Helsinki, Finland 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
