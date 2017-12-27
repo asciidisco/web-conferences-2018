@@ -52,6 +52,7 @@ Thank you 🙏
 | [TOCA ME](http://www.toca-me.com/) | Munich, Germany 🇩🇪  | March 3 | Design, Inspiration | ❌ | ❓ |
 | [QCon London](https://qconlondon.com/) | London, UK 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland 🇨🇭 | March 8 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
+| [GIT Merge](https://git-merge.com/) | Barcelona, Spain 🇪🇸 | March 8 | Git | [✅](https://github.submittable.com/submit/101176/git-merge-2018-call-for-proposals) | [✅](https://git-merge.com/code-of-conduct.html) |
 | [ScaleConf](http://scaleconf.org/) | Cape Town, South Africa 🇿🇦 | March 8-9| Scalability, DevOps, Web | [✅](http://scaleconf.org/submit-talk/) | [✅](http://scaleconf.org/codeofconduct/) |
 | [ReactFest 2018](https://reactfest.com/) | London, UK 🇬🇧  | March 9 | JavaScript, React | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
 | [Internet of Things Conference](https://iotcon.de/de/) | Munich, Germany 🇩🇪  | March 12-14 | IoT | ❌ | ❓ |
