@@ -32,7 +32,7 @@ Thank you 🙏
 | [Pacific NW Drupal Summit](https://pnwdrupalsummit.org/2018/) | Portland, USA 🇺🇸 | February 3-4 | Drupal, PHP, Symfony, Frontend, Being Human | ❌ | [✅](https://pnwdrupalsummit.org/2018/code-conduct) |
 | [JFokus](https://www.jfokus.se/jfokus/) | Stockholm, Sweden 🇸🇪 | February 5-7 | Java, JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Smashing Conf London](https://smashingconf.com/) | London, UK 🇬🇧 | February 7-8 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://smashingconf.com/codeofconduct) |
-| [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) | Minsk 🇧🇾 | February 10-11 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://2018.conf.rollingscopes.com/codeofconduct.html) |
+| [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) | Minsk, Belarus 🇧🇾 | February 10-11 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://2018.conf.rollingscopes.com/codeofconduct.html) |
 | [SustainableUX](http://sustainableux.com/) | Online 🌐 | February 15 | UX, Design | ❌ | [✅](http://sustainableux.com/codeofconduct/) |
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington, New Zealand 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
 | [Front Fest](http://frontfest.es/) | Madrid, Spain 🇪🇸   | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
@@ -88,7 +88,7 @@ Thank you 🙏
 | [JSHeroes](https://jsheroes.io/) | Cluj Napoca, Romania 🇷🇴 | April 18-20 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdPSo4Zy_M78PHRVFz90v1_SV3IqRcyhvgK2oCDY6ju6NDWeA/viewform) | [✅](https://jsheroes.io/code-of-conduct) |
 | [MiXiT](https://mixitconf.org/en/) | Lyon, France 🇫🇷 | April 19-20 | Development, Architecture, DevOps, Design | [✅](https://mixitconf.org/en/cfp) | [✅](http://confcodeofconduct.com/index.html) |
 | [DevExperience](http://devexperience.ro/) | Iasi, Romania 🇷🇴 | April 19-21 | Development, Architecture | ❌ | ❓ |
-| [JSUnconf](http://2018.jsunconf.eu/) | Hamburg, Germany 🇩🇪 | April 21-22 | JavaScript | ❌ | ✅](http://2018.jsunconf.eu/coc/) |
+| [JSUnconf](http://2018.jsunconf.eu/) | Hamburg, Germany 🇩🇪 | April 21-22 | JavaScript | ❌ | [✅](http://2018.jsunconf.eu/coc/) |
 | [The Lead Dev](https://newyork2018.theleaddeveloper.com//) | New York, USA 🇺🇸 | April 24 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
 | [React Finland](https://react-finland.fi/) | Helsinki, Finland 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg, USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
