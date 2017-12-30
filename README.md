@@ -93,7 +93,7 @@ Thank you 🙏
 | [The Lead Dev](https://newyork2018.theleaddeveloper.com//) | New York, USA 🇺🇸 | April 24 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
 | [React Finland](https://react-finland.fi/) | Helsinki, Finland 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg, USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
-| [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | ❌ | [✅](https://devone.at/code-of-conduct/) |
+| [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [✅](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
 | [UphillConf](http://uphillconf.com/) | Bern, Switzerland 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
 
 ## May
