@@ -35,6 +35,7 @@ Thank you 🙏
 | [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/) | Minsk, Belarus 🇧🇾 | February 10-11 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://2018.conf.rollingscopes.com/codeofconduct.html) |
 | [SustainableUX](http://sustainableux.com/) | Online 🌐 | February 15 | UX, Design | ❌ | [✅](http://sustainableux.com/codeofconduct/) |
 | [Webstock](https://www.webstock.org.nz/18/) | Wellington, New Zealand 🇳🇿 | February 12-16 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](https://www.webstock.org.nz/18/code-of-conduct/) |
+| [PHP UK Conference](https://www.phpconference.co.uk/) | London, England | February 12-16 | Frontend, Web, HTML, CSS | [✅](https://www.papercall.io/phpuk18) | ❓ |
 | [Front Fest](http://frontfest.es/) | Madrid, Spain 🇪🇸   | February 17 | Frontend, Web, HTML, CSS, JavaScript | ❌ | [✅](http://frontfest.es/codigo-conducta.html#team) |
 | [FITC Amsterdam](http://fitc.ca/event/am18/) | Amsterdam, The Netherlands 🇳🇱 | February 21-23 | Design, Development, Inspiration | ❌ | [✅](http://fitc.ca/code-of-conduct/) |
 | [Assert(JS)](https://www.assertjs.com/) | San Antonio, USA 🇺🇸 | February 22 | JavaScript, Testing | ❌ | [✅](https://www.assertjs.com/code-of-conduct) |
