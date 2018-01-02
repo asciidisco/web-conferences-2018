@@ -189,7 +189,7 @@ Thank you 🙏
 | [Web Directions Summit](http://webdirections.org/wds) | Sydney, Australia 🇦🇺 | November 8-9 | 2 Track, Web, JavaScript, HTML, CSS, User Research, CX, UX, UI, Product Design | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [BRING IT TOGETHER](http://bringittogether.ca/) | Niagara Falls, Canada 🇨🇦 | November 8-10 | Web, Education | ❌  | [✅](http://bringittogether.ca/anti-harassement-statement-declaration-contre-lharcelement/) |
 | [ColdFront 2018](https://2018.coldfront.co) | Copenhagen, Denmark 🇩🇰 | November 13-14 | Web, Mobile, Front-end, Interfaces | ❌  | [✅](http://confcodeofconduct.com/) |
-
+| [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC29, Tooling | ❌  | [✅](https://2017.js-kongress.de/code-of-conduct/) |
 
 ## December
 
