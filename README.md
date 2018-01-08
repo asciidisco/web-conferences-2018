@@ -56,6 +56,7 @@ Thank you 🙏
 | [GIT Merge](https://git-merge.com/) | Barcelona, Spain 🇪🇸 | March 8 | Git | [✅](https://github.submittable.com/submit/101176/git-merge-2018-call-for-proposals) | [✅](https://git-merge.com/code-of-conduct.html) |
 | [ScaleConf](http://scaleconf.org/) | Cape Town, South Africa 🇿🇦 | March 8-9| Scalability, DevOps, Web | [✅](http://scaleconf.org/submit-talk/) | [✅](http://scaleconf.org/codeofconduct/) |
 | [ReactFest 2018](https://reactfest.com/) | London, UK 🇬🇧  | March 9 | JavaScript, React | [✅ ](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
+| [TSConf](https://tsconf.io/) | Seattle, USA 🇺🇸  | March 12-13 | TypeScript, JavaScript | [✅](https://tsconf.io/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [Internet of Things Conference](https://iotcon.de/de/) | Munich, Germany 🇩🇪  | March 12-14 | IoT | ❌ | ❓ |
 | [Pixel Up!](https://pixelup.co.za) | Johannesburg, South Africa 🇿🇦 | March 12-14 | UX, Product Design, Web | ❌ | [✅](https://pixelup.co.za/code-of-conduct) |
 | [Emberconf](http://emberconf.com/) | Portland, USA 🇺🇸 | March 13-14 | JavaScript, Ember | [❌](https://cfp.emberconf.com/events/emberconf-2018)| [✅](http://emberconf.com/code-of-conduct.html) |
@@ -189,6 +190,7 @@ Thank you 🙏
 | [Web Directions Culture](http://webdirections.org/culture) | Sydney, Australia 🇦🇺 | November 7 | Team Lead, Culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [Web Directions Summit](http://webdirections.org/wds) | Sydney, Australia 🇦🇺 | November 8-9 | 2 Track, Web, JavaScript, HTML, CSS, User Research, CX, UX, UI, Product Design | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [BRING IT TOGETHER](http://bringittogether.ca/) | Niagara Falls, Canada 🇨🇦 | November 8-10 | Web, Education | ❌  | [✅](http://bringittogether.ca/anti-harassement-statement-declaration-contre-lharcelement/) |
+| [HalfStack](http://halfstackconf.com/) | London, UK 🇬🇧  | November 16 | JavaScript, Web | [✅](http://halfstackconf.com/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [ColdFront 2018](https://2018.coldfront.co) | Copenhagen, Denmark 🇩🇰 | November 13-14 | Web, Mobile, Front-end, Interfaces | ❌  | [✅](http://confcodeofconduct.com/) |
 | [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC39, Tooling, Standards | ❌  | [✅](https://2017.js-kongress.de/code-of-conduct/) |
 
