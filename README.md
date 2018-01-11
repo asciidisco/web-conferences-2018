@@ -8,6 +8,8 @@ Thank you 🙏
 
 > A JSON-API for this list is available: See [API Doc](./API.md)
 
+> If you´re interested in CFPs, you can use the [cfp magick](https://github.com/asciidisco/cfp-magick) CLI app to display them
+
 ## January
 
 | Event | Location | Date | Topic | CFP | CoC |
