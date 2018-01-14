@@ -126,7 +126,7 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Syntax Conf](https://2018.syntaxcon.com) | Charlston, USA 🇺🇸 | June 1-2 | JavaScript | ❓ | [✅](https://2018.syntaxcon.com/about/code-of-conduct/) |
 | [Building IoT](https://www.buildingiot.de) | Cologne, Germany 🇩🇪  | June 1-2 | JavaScript | [✅](https://www.buildingiot.de/call.php) | [✅](https://www.buildingiot.de/konferenz_coc.php) |
-| [CSSconf EU](https://2018.cssconf.eu) | Berlin, Germany 🇩🇪  | June 1 | CSS | [ [❌](https://2018.cssconf.eu/call-for-speakers/) | [✅](https://2018.cssconf.eu/code-of-conduct/) |
+| [CSSconf EU](https://2018.cssconf.eu) | Berlin, Germany 🇩🇪  | June 1 | CSS | [❌](https://2018.cssconf.eu/call-for-speakers/) | [✅](https://2018.cssconf.eu/code-of-conduct/) |
 | [JSConf EU](https://2018.jsconf.eu/) | Berlin, Germany 🇩🇪  | June 2-3 | JavaScript | [❌](https://2018.jsconf.eu/call-for-speakers/) | [✅](https://2018.jsconf.eu/code-of-conduct/) |
 | [Web Rebels](https://www.webrebels.org/) | Oslo, Norway 🇳🇴 | June 4-5 | Web, CSS, JavaScript | ❓ | [✅](http://jsconf.com/codeofconduct.html) |
 | [Webconf.asia 2018](https://webconf.asia/) | Hong Kong 🇭🇰 | June 6-9 | Web | ❌ | [✅](https://webconf.asia/code-of-conduct) |
