@@ -164,6 +164,7 @@ Thank you 🙏
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, USA 🇺🇸 | August 16-17 | JavaScript, React | ❓ | [✅](http://www.reactrally.com/conduct) |
 | [Form & Function Class 9](http://2018.formfunctionclass.com/) | Manila, Philippines 🇵🇭 | August 18 | Design, UX , Frontend, Web | ❌  | ❓ |
 | [Frontend Conference Zurich](https://www.frontendconf.ch/) | Zurich, Switzerland 🇨🇭 | August 30-31 | Design, UX , Frontend, Web | ✅  | ✅ |
+| [Front in BH](https://frontinbh.com.br/) | Belo Horizonte, Brazil 🇧🇷 | August TBD | Frontend, HTML, CSS, JavaScript | ❌  | [✅](http://confcodeofconduct.com/) |
 
 ## September
 
