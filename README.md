@@ -163,12 +163,14 @@ Thank you 🙏
 | [Web Directions Code](http://webdirections.org/code) | Melbourne, Australia 🇦🇺 | August 2-3 | Web, JavaScript, HTML, CSS | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, USA 🇺🇸 | August 16-17 | JavaScript, React | ❓ | [✅](http://www.reactrally.com/conduct) |
 | [Form & Function Class 9](http://2018.formfunctionclass.com/) | Manila, Philippines 🇵🇭 | August 18 | Design, UX , Frontend, Web | ❌  | ❓ |
+| [BrazilJS Conf](https://braziljs.org/conf/) | Porto Alegre, Brazil 🇧🇷 | August TBA | JavaScript, Front-End, Web | ❌  | [✅](https://braziljs.org/coc/) |
 | [Frontend Conference Zurich](https://www.frontendconf.ch/) | Zurich, Switzerland 🇨🇭 | August 30-31 | Design, UX , Frontend, Web | ✅  | ✅ |
 
 ## September
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [BrazilJS Conf](https://braziljs.org/conf/) | Fortaleza, Brazil 🇧🇷 | September TBA | JavaScript, Front-End, Web | ❌  | [✅](https://braziljs.org/coc/) |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden 🇸🇪 | September 6-7 | JavaScript | [✅](http://cfp.nordicjs.com/) | [✅](http://diversity.nordicjs.com/) |
 | [Refresh](http://refresh.rocks/) | Tallin, Estonia 🇪🇪 | September 7 | Web, Design, Ux | [✅](http://refresh.rocks/call-for-papers/) | [✅](http://refresh.rocks/code-of-conduct) |
 | [Webkongress Erlangen](https://www.webkongress.fau.de/) | Erlangen, Germany 🇩🇪  | September 11-13 | Web, JavaScript, HTML, CSS | [✅](https://www.webkongress.fau.de/call-for-paper/) | ❓ |
