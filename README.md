@@ -104,6 +104,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Voxxed Days Melbourne](https://voxxeddays.com/melbourne/) | Melbourne, Australia 🇦🇺 | May 2-3 | Development, Web | [✅](https://sessionize.com/voxxed-days-melbourne/) | [✅](https://voxxeddays.com/melbourne/code-of-conduct/)|
 | [Codeland](http://codelandconf.com/) | New York, USA 🇺🇸 | May 4-5 | Development, Newcomers | ❌ | [✅](http://codelandconf.com/coc/) |
 | [beyond tellerrand // Düsseldorf 2018](https://beyondtellerrand.com/) | Düsseldorf, Germany 🇩🇪  | May 7-9 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | Minnesota, USA 🇺🇸 | May 7-10 | Development, Architecture | [✅](https://ndcminnesota.com/page/call-for-papers/) | [✅](https://ndcminnesota.com/page/code-of-conduct) |
@@ -125,6 +126,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Voxxed Days Singapore](https://voxxeddays.com/Singapore/) | Singapore, Singapore 🇸🇬 | June 1 | Development, Web | [✅](https://www.papercall.io/cfp-sgvoxxeddays) | [✅](https://voxxeddays.com/melbourne/code-of-conduct/)|
 | [Syntax Conf](https://2018.syntaxcon.com) | Charlston, USA 🇺🇸 | June 1-2 | JavaScript | ❓ | [✅](https://2018.syntaxcon.com/about/code-of-conduct/) |
 | [Building IoT](https://www.buildingiot.de) | Cologne, Germany 🇩🇪  | June 1-2 | JavaScript | [✅](https://www.buildingiot.de/call.php) | [✅](https://www.buildingiot.de/konferenz_coc.php) |
 | [CSSconf EU](https://2018.cssconf.eu) | Berlin, Germany 🇩🇪  | June 1 | CSS | [❌](https://2018.cssconf.eu/call-for-speakers/) | [✅](https://2018.cssconf.eu/code-of-conduct/) |
