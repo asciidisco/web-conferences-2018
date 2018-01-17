@@ -201,6 +201,7 @@ Thank you 🙏
 | [BRING IT TOGETHER](http://bringittogether.ca/) | Niagara Falls, Canada 🇨🇦 | November 8-10 | Web, Education | ❌  | [✅](http://bringittogether.ca/anti-harassement-statement-declaration-contre-lharcelement/) |
 | [HalfStack](http://halfstackconf.com/) | London, UK 🇬🇧  | November 16 | JavaScript, Web | [✅](http://halfstackconf.com/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [ColdFront 2018](https://2018.coldfront.co) | Copenhagen, Denmark 🇩🇰 | November 13-14 | Web, Mobile, Front-end, Interfaces | ❌  | [✅](http://confcodeofconduct.com/) |
+| [Material 18](https://material.is/2018/) | Reykjavík, Iceland 🇮🇸 | November 16 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
 | [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC39, Tooling, Standards | ❌  | [✅](https://2017.js-kongress.de/code-of-conduct/) |
 
 ## December
