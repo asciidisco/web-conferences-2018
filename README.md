@@ -138,6 +138,7 @@ Thank you 🙏
 | [Best of Web](http://bestofweb.paris/) | Paris, France 🇫🇷  | June 7-8 | HTML, CSS, JavaScript | [✅](https://checkout.eventlama.com/#/events/best-of-web-2018/cfp) | [✅](http://confcodeofconduct.com/) |
 | [pitercss_conf](https://pitercss.com/) | St. Petersburg, Russia 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | ❓ | ❓ |
 | [DevIT](http://devitconf.org/) | Thessaloniki , Greece 🇬🇷 | June 9 | JavaScript | ❓ | [✅](http://devitconf.org/code-of-conduct) |
+| [PyConWeb](https://pyconweb.com/) | Munich, Germany 🇩🇪 | June 9-10 | Development, Web, Python | ❓ | [✅](https://pyconweb.com/coc/) |
 | [Fluent](https://conferences.oreilly.com/fluent/fl-ca/) | San Jose, USA 🇺🇸 | June 11-14 | JavaScript, Performance, Web | [✅](https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606) | [✅](http://www.oreilly.com/conferences/code-of-conduct.html) |
 | [ConvergeSE](http://convergese.com/) | Columbia, USA 🇺🇸 | June 13-15 | Development, Web | ❓ | ❓ |
 | [NDC Oslo](https://ndcoslo.com/) | Oslo, Norway 🇳🇴 | June 11-15 | Development, Architecture| [✅](https://ndcoslo.com/page/call-for-papers/) | [✅](https://ndcoslo.com/page/code-of-conduct) |
