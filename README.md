@@ -113,6 +113,7 @@ Thank you 🙏
 | [JSDay Italy](https://2018.jsday.it/) | Verona, Italy 🇮🇹 | May 9-10 | JavaScript | [✅](https://cfp.jsday.it/) | [✅](https://2018.jsday.it/coc.html) |
 | [Devoxx UK](https://www.devoxx.co.uk/) | London, UK 🇬🇧  | May 9-11 | Development, Architecture | [❌](https://cfp.devoxx.co.uk/) | ❓ |
 | [DeltaV Conference](https://2018.deltavconf.com/) | London, UK 🇬🇧  | May 10-11 | Web, Performance | ❓ | [✅](https://2018.deltavconf.com/code-of-conduct) |
+| [phpDay](https://2018.phpday.it/) | Verona, Italy 🇮🇹 | May 11-12 | PHP | [✅](https://cfp.phpday.it/) | [✅](https://2018.phpday.it/coc.html) |
 | [AccessU](https://knowbility.org/education/accessu/) | Austin (TX), USA 🇺🇸 | May 14-16 | Accessibility, Web, Documents | [✅](https://knowbility.org/education/accessu/share-your-expertise-at-john-slatin-accessu/) | ❓ |
 | [React Europe](https://www.react-europe.org/) | Paris, France 🇫🇷 | May 17-18 | JavaScript, React | [✅](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp) | [✅](http://confcodeofconduct.com/) |
 | [JSDayES](http://2018.jsday.es/) | Madrid, Spain 🇪🇸   | May 19 | JavaScript | ❓ | [✅](http://2018.jsday.es/code-of-conduct-en.html) |
