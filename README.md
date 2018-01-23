@@ -211,4 +211,4 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
-| None yet |
+| [NG-BE 2018](https://ng-be.org/) | Ghent, Belgium 🇧🇪 | December 6-7 | JavaScript, Angular | ❌ | [✅](https://ng-be.org/code-of-conduct) |
