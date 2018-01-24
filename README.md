@@ -120,6 +120,7 @@ Thank you 🙏
 | [JSDayES](http://2018.jsday.es/) | Madrid, Spain 🇪🇸   | May 19 | JavaScript | ❓ | [✅](http://2018.jsday.es/code-of-conduct-en.html) |
 | [Holy JS](https://holyjs-piter.ru/en/) | St.Petersburg, Russia 🇷🇺 | May 19-20 | JavaScript | [✅](https://holyjs-piter.ru/en/callforpapers/) | [✅](https://holyjs-piter.ru/en/codeofconduct/) |
 | [YGLF](http://yglf.com.ua/) | Kyiv, Ukraine 🇺🇦 | May 24-25 | JavaScript, HTML, CSS | ✅ | [✅](http://yglf.com.ua/code-of-conduct) |
+| [DjangoCon Europe](https://2018.djangocon.eu/) | Heidelberg, Germany 🇩🇪 | May 23-27 | Django, Python, Web | [✅](https://2018.djangocontent.eu/hd/cfp) | [✅](https://2018.djangocon.eu/conduct/) |
 | [Front Trends](https://2018.front-trends.com/) | Warsaw, Poland 🇵🇱 | May 24-25 | JavaScript, HTML, CSS | [✅](https://2018.front-trends.com/speaking-at-front-trends/) | [✅](https://2018.front-trends.com/code-of-conduct/) |
 | [Sud Web](https://sudweb.fr/2018/en) | Anduze, France 🇫🇷 | May 25-26 | Web, Standards, Personal development | [✅](https://sudweb.fr/2018/en/cfp/) | [✅](https://sudweb.fr/2018/en/code-of-conduct/) |
 | [DevSum18](http://www.devsum.se/) | Stockholm, Sweden 🇸🇪 | May 31 - June 1 | Development, Architecture | [❌](http://www.devsum.se/cfp/) | [✅](http://www.devsum.se/code-of-conduct/) |
