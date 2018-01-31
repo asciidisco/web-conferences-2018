@@ -202,8 +202,10 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Web Directions AI](http://webdirections.org/ai) | Sydney, Australia 🇦🇺 | November 7 | AI | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [Web Directions Culture](http://webdirections.org/culture) | Sydney, Australia 🇦🇺 | November 7 | Team Lead, Culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
+| [dotCSS](https://www.dotcss.io/) | Paris, France 🇫🇷 | November 8 | CSS | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | [✅](https://www.dotconferences.com/codeofconduct) |
 | [Web Directions Summit](http://webdirections.org/wds) | Sydney, Australia 🇦🇺 | November 8-9 | 2 Track, Web, JavaScript, HTML, CSS, User Research, CX, UX, UI, Product Design | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [BRING IT TOGETHER](http://bringittogether.ca/) | Niagara Falls, Canada 🇨🇦 | November 8-10 | Web, Education | ❌  | [✅](http://bringittogether.ca/anti-harassement-statement-declaration-contre-lharcelement/) |
+| [dotJS](https://www.dotjs.io/) | Paris, France 🇫🇷 | November 9 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | [✅](https://www.dotconferences.com/codeofconduct) |
 | [ColdFront 2018](https://2018.coldfront.co) | Copenhagen, Denmark 🇩🇰 | November 13-14 | Web, Mobile, Front-end, Interfaces | ❌  | [✅](http://confcodeofconduct.com/) |
 | [HalfStack](http://halfstackconf.com/) | London, UK 🇬🇧  | November 16 | JavaScript, Web | [✅](http://halfstackconf.com/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [Material 18](https://material.is/2018/) | Reykjavík, Iceland 🇮🇸 | November 16 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
