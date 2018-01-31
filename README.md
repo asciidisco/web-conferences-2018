@@ -62,7 +62,7 @@ Thank you 🙏
 | [Internet of Things Conference](https://iotcon.de/de/) | Munich, Germany 🇩🇪  | March 12-14 | IoT | ❌ | ❓ |
 | [Pixel Up!](https://pixelup.co.za) | Johannesburg, South Africa 🇿🇦 | March 12-14 | UX, Product Design, Web | ❌ | [✅](https://pixelup.co.za/code-of-conduct) |
 | [Emberconf](http://emberconf.com/) | Portland, USA 🇺🇸 | March 13-14 | JavaScript, Ember | [❌](https://cfp.emberconf.com/events/emberconf-2018)| [✅](http://emberconf.com/code-of-conduct.html) |
-| [UpFrontConf](http://upfrontconf.com/) | Manchester, UK 🇬🇧  | March 16 | Frontend, HTML, CSS, JavaScript | [❌](https://docs.google.com/forms/d/e/1FAIpQLScg8giABm8oKs161VIK8nIpwMt5IXyeL4gcm8DWu_Z-2_d3GQ/viewform) | [❌](http://upfrontconf.com/code-of-conduct/) |
+| [UpFrontConf](http://upfrontconf.com/) | Manchester, UK 🇬🇧  | March 16 | Frontend, HTML, CSS, JavaScript | [❌](https://docs.google.com/forms/d/e/1FAIpQLScg8giABm8oKs161VIK8nIpwMt5IXyeL4gcm8DWu_Z-2_d3GQ/viewform) | [✅](http://upfrontconf.com/code-of-conduct/) |
 | [Pipeline Conf](https://pipelineconf.info/) | London, UK 🇬🇧  | March 20 | Architecture, Development, CI/CD | ❌ | [✅](http://pipelineconf.info/pipeline/about/code-of-conduct/) |
 | [CSSConf AU](https://2018.cssconf.com.au/) | Melbourne, Australia 🇦🇺 | March 20 | CSS | [❌](https://2018.cssconf.com.au/call-for-speakers) | [✅](https://2018.cssconf.com.au/code-of-conduct) |
 | [JAZZCon](http://jazzcon.tech/) | New Orleans, USA 🇺🇸 | March 21-23 | JavaScript, JS Frameworks, HTML5, CSS3 | [❌](http://jazzcon.tech/#cfp-content) | [✅](http://jazzcon.tech/#inline-content) |
