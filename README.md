@@ -117,6 +117,7 @@ Thank you 🙏
 | [phpDay](https://2018.phpday.it/) | Verona, Italy 🇮🇹 | May 11-12 | PHP | [✅](https://cfp.phpday.it/) | [✅](https://2018.phpday.it/coc.html) |
 | [AccessU](https://knowbility.org/education/accessu/) | Austin (TX), USA 🇺🇸 | May 14-16 | Accessibility, Web, Documents | [✅](https://knowbility.org/education/accessu/share-your-expertise-at-john-slatin-accessu/) | ❓ |
 | [React Europe](https://www.react-europe.org/) | Paris, France 🇫🇷 | May 17-18 | JavaScript, React | [✅](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp) | [✅](http://confcodeofconduct.com/) |
+| [Nation JS](http://nationjs.com/) | Washington DC, USA 🇺🇸 | May 18 | JavaScript | [✅](https://www.papercall.io/nationjs2018) | [✅](http://nationjs.com/conduct/index) |
 | [Holy JS](https://holyjs-piter.ru/en/) | St.Petersburg, Russia 🇷🇺 | May 19-20 | JavaScript | [✅](https://holyjs-piter.ru/en/callforpapers/) | [✅](https://holyjs-piter.ru/en/codeofconduct/) |
 | [YGLF](http://yglf.com.ua/) | Kyiv, Ukraine 🇺🇦 | May 24-25 | JavaScript, HTML, CSS | ✅ | [✅](http://yglf.com.ua/code-of-conduct) |
 | [DjangoCon Europe](https://2018.djangocon.eu/) | Heidelberg, Germany 🇩🇪 | May 23-27 | Django, Python, Web | [✅](https://2018.djangocontent.eu/hd/cfp) | [✅](https://2018.djangocon.eu/conduct/) |
