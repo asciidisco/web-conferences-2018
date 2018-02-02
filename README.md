@@ -101,7 +101,7 @@ Thank you 🙏
 | [JSUnconf](http://2018.jsunconf.eu/) | Hamburg, Germany 🇩🇪 | April 21-22 | JavaScript | ❌ | [✅](http://2018.jsunconf.eu/coc/) |
 | [The Lead Dev](https://newyork2018.theleaddeveloper.com/) | New York, USA 🇺🇸 | April 24 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
 | [React Finland](https://react-finland.fi/) | Helsinki, Finland 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
-| [Generate New York](https://www.generateconf.com/new-york) | New York, USA 🇺🇸 | April 25-27 | Development | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
+| [Generate New York](https://www.generateconf.com/new-york) | New York, USA 🇺🇸 | April 25-27 | Web, Design | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg, USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [✅](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
 | [UphillConf](http://uphillconf.com/) | Bern, Switzerland 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
@@ -189,6 +189,7 @@ Thank you 🙏
 | [Refresh](http://refresh.rocks/) | Tallin, Estonia 🇪🇪 | September 7 | Web, Design, Ux | [✅](http://refresh.rocks/call-for-papers/) | [✅](http://refresh.rocks/code-of-conduct) |
 | [Webkongress Erlangen](https://www.webkongress.fau.de/) | Erlangen, Germany 🇩🇪  | September 11-13 | Web, JavaScript, HTML, CSS | [✅](https://www.webkongress.fau.de/call-for-paper/) | ❓ |
 | [JSFoo](https://jsfoo.in/) | Bangalore, India 🇮🇳  | September 15-16 | Web, JavaScript, Design, Ux | [✅](https://jsfoo.talkfunnel.com/2018/) | [✅](https://jsfoo.in/code-of-conduct/) |
+| [Generate London](https://www.generateconf.com/london) | London, UK 🇬🇧  | September 19-21 | Web, Design | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
 | [WebExpo](https://www.webexpo.net/) | Prague, Czech Republic 🇨🇿 | September 21-22 | Web, JavaScript, Design, Ux | ❌  | [✅](http://confcodeofconduct.com/) |
 
 ## October
