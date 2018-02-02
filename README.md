@@ -99,8 +99,9 @@ Thank you 🙏
 | [MiXiT](https://mixitconf.org/en/) | Lyon, France 🇫🇷 | April 19-20 | Development, Architecture, DevOps, Design | [❌](https://mixitconf.org/en/cfp) | [✅](http://confcodeofconduct.com/index.html) |
 | [DevExperience](http://devexperience.ro/) | Iasi, Romania 🇷🇴 | April 19-21 | Development, Architecture | ❌ | ❓ |
 | [JSUnconf](http://2018.jsunconf.eu/) | Hamburg, Germany 🇩🇪 | April 21-22 | JavaScript | ❌ | [✅](http://2018.jsunconf.eu/coc/) |
-| [The Lead Dev](https://newyork2018.theleaddeveloper.com//) | New York, USA 🇺🇸 | April 24 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
+| [The Lead Dev](https://newyork2018.theleaddeveloper.com/) | New York, USA 🇺🇸 | April 24 | Development | ❌ | [✅](https://newyork2018.theleaddeveloper.com/code-of-conduct) |
 | [React Finland](https://react-finland.fi/) | Helsinki, Finland 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
+| [Generate New York](https://www.generateconf.com/new-york) | New York, USA 🇺🇸 | April 25-27 | Development | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg, USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [✅](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
 | [UphillConf](http://uphillconf.com/) | Bern, Switzerland 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
