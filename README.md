@@ -81,6 +81,7 @@ Thank you 🙏
 | [ForwardJS](https://forwardjs.com/ottawa) | Ottawa, Canada 🇨🇦 | April 3-6 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLScUxLsLva4kXTCDtcUgIxqQJnedFcgAsf2kpwI7dB8SV5kwhw/viewform) | [✅](http://confcodeofconduct.com/) |
 | [Webcon](http://webcon.illinois.edu/schedule.shtml) | Illinois, USA 🇺🇸 | April 4-6 | JavaScript, HTML, CSS, Web | [✅](http://webmasters.illinois.edu/#about) | [✅](http://webcon.illinois.edu/code.pdf) |
 | [Frontend NE](https://2018.frontendne.co.uk/) | Newcastle, UK 🇬🇧  | April 5 | JavaScript, HTML, CSS | [❌](https://2018.frontendne.co.uk/call-for-speakers.html) | [✅](https://2018.frontendne.co.uk/code-of-conduct.html) |
+| [JSConf Tahoe](http://www.tahoejs.com/events/2018/4/6/jsconf-tahoe) | Lake Tahoe, USA 🇺🇸 | April 6 | JavaScript |❓ |❓ |
 | [Pro Web](https://2018.programming-conference.org) | Nice, France 🇫🇷 | April 9-12 | Development, Web | [❌](https://2018.programming-conference.org/track/proweb-2018-papers) |❓ |
 | [Web à Québec](http://www.webaquebec.org/en) | Québec, Canada 🇨🇦 | April 10-12 | Development, Web | [❌](https://docs.google.com/forms/d/e/1FAIpQLSfBycxEH2ksIK0fnrXYTSZkb2EQSMFHwyTkC1j36NyyVlKNGQ/closedform) | [✅](http://www.webaquebec.org/code-de-conduite) |
 | [International JavaScript Conference 2018](https://javascript-conference.com/en/) | London, UK 🇬🇧 | April 11-13 | JavaScript, Web Development & Architecture | ❌ | [✅](https://javascript-conference.com/service-info-en/code-of-conduct-en/) |
