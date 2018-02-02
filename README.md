@@ -73,6 +73,7 @@ Thank you 🙏
 | [DevConf ZA](https://www.devconf.co.za/) | Johannesburg, South Africa 🇿🇦 | March 27 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
 | [#PerfMatters](https://perfmattersconf.com/) | Redwood City, USA 🇺🇸 | March 27-28 | Web, Performance | ❌ | [✅](https://perfmattersconf.com/code/) |
 | [DevConf ZA](https://www.devconf.co.za/) | Cape Town, South Africa 🇿🇦 | March 29 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
+| [JS Fest](http://jsfest.com.ua/indexe.html) | Kyiv, Ukraine 🇺🇦 | March 30-31 | JavaScript | [✅](http://jsfest.com.ua/speakers_eng.html) | ❌ |
 
 ## April
 
