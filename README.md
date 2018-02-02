@@ -54,6 +54,7 @@ Thank you 🙏
 | [Concat](https://2018.conc.at/) | Salzburg, Austria 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
 | [TOCA ME](http://www.toca-me.com/) | Munich, Germany 🇩🇪  | March 3 | Design, Inspiration | ❌ | ❓ |
 | [QCon London](https://qconlondon.com/) | London, UK 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
+| [MainXchange](https://mainxchange.de/) | Wuerzburg, Germany 🇩🇪 | March 7 | Development, Web, E-Commerce, Business 4.0 | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland 🇨🇭 | March 8 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [GIT Merge](https://git-merge.com/) | Barcelona, Spain 🇪🇸 | March 8 | Git | [❌](https://github.submittable.com/submit/101176/git-merge-2018-call-for-proposals) | [✅](https://git-merge.com/code-of-conduct.html) |
 | [ScaleConf](http://scaleconf.org/) | Cape Town, South Africa 🇿🇦 | March 8-9| Scalability, DevOps, Web | [✅](http://scaleconf.org/submit-talk/) | [✅](http://scaleconf.org/codeofconduct/) |
