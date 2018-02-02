@@ -143,9 +143,10 @@ Thank you 🙏
 | [PyConWeb](https://pyconweb.com/) | Munich, Germany 🇩🇪 | June 9-10 | Development, Web, Python | ❓ | [✅](https://pyconweb.com/coc/) |
 | [DevIT](http://devitconf.org/) | Thessaloniki , Greece 🇬🇷 | June 10-11 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSeV8oJG9p7iqzbTUamcdq3zn12gLKU1c4rUFJUJhiMs-2wRmQ/viewform) | [✅](http://devitconf.org/code-of-conduct) |
 | [Fluent](https://conferences.oreilly.com/fluent/fl-ca/) | San Jose, USA 🇺🇸 | June 11-14 | JavaScript, Performance, Web | [❌](https://conferences.oreilly.com/fluent/fl-ca/public/cfp/606) | [✅](http://www.oreilly.com/conferences/code-of-conduct.html) |
-| [ConvergeSE](http://convergese.com/) | Columbia, USA 🇺🇸 | June 13-15 | Development, Web | ❓ | ❓ |
 | [NDC Oslo](https://ndcoslo.com/) | Oslo, Norway 🇳🇴 | June 11-15 | Development, Architecture| [✅](https://ndcoslo.com/page/call-for-papers/) | [✅](https://ndcoslo.com/page/code-of-conduct) |
+| [ConvergeSE](http://convergese.com/) | Columbia, USA 🇺🇸 | June 13-15 | Development, Web | ❓ | ❓ |
 | [CSS Day](https://cssday.nl/2018) | Amsterdam, The Netherlands 🇳🇱 | June 14-15 | CSS, UX | ❌ | [✅](https://cssday.nl/2018/contact#code-of-conduct) |
+| [buzzjs](http://buzzjs.com/) | New York, USA 🇺🇸 | June 14-15 | JavaScript | [✅](http://buzzjs.com/cfp/) | [✅](http://confcodeofconduct.com/) |
 | [GraphQL Europe 2018](https://www.graphql-europe.org/) | Berlin, Germany 🇩🇪 | June 15 | JavaScript, React, GraphQL | [✅](https://www.papercall.io/graphql-eu) | [✅](https://www.graphql-europe.org/code-of-conduct/) |
 | [EnterJS](http://www.enterjs.de/) | Darmstadt, Germany 🇩🇪 | June 19-21 | JavaScript | [❌](https://www.enterjs.de/call-for-proposals-en) | [✅](https://www.enterjs.de/diversity#code-of-conduct-english) |
 | [We Rise](https://werise.tech/) | Atlanta, USA 🇺🇸  | June 21-22 | Development, JavaScript, Women in Tech | [✅](https://www.papercall.io/we-rise-tech) | [✅](https://werise.tech/code-of-conduct/) |
