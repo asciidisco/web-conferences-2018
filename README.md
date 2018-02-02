@@ -204,6 +204,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Pixel Pioneers](https://pixelpioneers.co/) | Belfast, Northern Ireland 🇮🇪 | November 1 | Web | [✅](https://pixelpioneers.co/call-for-speakers) | [✅](http://confcodeofconduct.com/) |
 | [Web Directions AI](http://webdirections.org/ai) | Sydney, Australia 🇦🇺 | November 7 | AI | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [Web Directions Culture](http://webdirections.org/culture) | Sydney, Australia 🇦🇺 | November 7 | Team Lead, Culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [dotCSS](https://www.dotcss.io/) | Paris, France 🇫🇷 | November 8 | CSS | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | [✅](https://www.dotconferences.com/codeofconduct) |
