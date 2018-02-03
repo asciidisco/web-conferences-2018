@@ -178,6 +178,7 @@ Thank you 🙏
 | [Web Directions Code](http://webdirections.org/code) | Melbourne, Australia 🇦🇺 | August 2-3 | Web, JavaScript, HTML, CSS | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [React Rally](http://www.reactrally.com/) | Salt Lake City, USA 🇺🇸 | August 16-17 | JavaScript, React | ❓ | [✅](http://www.reactrally.com/conduct) |
 | [Form & Function Class 9](http://2018.formfunctionclass.com/) | Manila, Philippines 🇵🇭 | August 18 | Design, UX , Frontend, Web | ❌  | ❓ |
+| [JSConf US](http://lastcall.jsconf.us/) | Amelia Island (FL), USA 🇺🇸 | August 21-23 | JavaScript | ❓ | [✅](http://jsconf.com/codeofconduct.html) |
 | [BrazilJS Conf](https://braziljs.org/) | Porto Alegre, Brazil 🇧🇷 | August 24-25 | JavaScript, Web, Node, UX | ❌ | [✅](https://braziljs.org/coc) |
 | [Frontend Conference Zurich](https://www.frontendconf.ch/) | Zurich, Switzerland 🇨🇭 | August 30-31 | Design, UX , Frontend, Web | [✅](https://docs.google.com/forms/d/e/1FAIpQLSc_ZxKqO3syF3URm9RnSdCRnaSS_p_Iw6nB3GZVwDEmAYDWXg/viewform) | [✅](https://www.frontendconf.ch/code-of-conduct) |
 
