@@ -53,7 +53,7 @@ Thank you 🙏
 | [The Lead Dev](https://austin2018.theleaddeveloper.com//) | Austin (TX), USA 🇺🇸 | March 2 | Development | ❌ | [✅](https://austin2018.theleaddeveloper.com/code-of-conduct) |
 | [Concat](https://2018.conc.at/) | Salzburg, Austria 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
 | [TOCA ME](http://www.toca-me.com/) | Munich, Germany 🇩🇪  | March 3 | Design, Inspiration | ❌ | ❓ |
-| [QCon London](https://qconlondon.com/) | London, UK 🇬🇧  | March 5-7 | Development, Performance, Architecture | [✅](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
+| [QCon London](https://qconlondon.com/) | London, UK 🇬🇧  | March 5-7 | Development, Performance, Architecture | [❌](https://qconlondon.com/talk-submissions) | [✅](https://qconlondon.com/code-conduct) |
 | [MainXchange](https://mainxchange.de/) | Wuerzburg, Germany 🇩🇪 | March 7 | Development, Web, E-Commerce, Business 4.0 | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland 🇨🇭 | March 8 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [GIT Merge](https://git-merge.com/) | Barcelona, Spain 🇪🇸 | March 8 | Git | [❌](https://github.submittable.com/submit/101176/git-merge-2018-call-for-proposals) | [✅](https://git-merge.com/code-of-conduct.html) |
@@ -77,7 +77,7 @@ Thank you 🙏
 | [DevConf ZA](https://www.devconf.co.za/) | Johannesburg, South Africa 🇿🇦 | March 27 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
 | [#PerfMatters](https://perfmattersconf.com/) | Redwood City (CA), USA 🇺🇸 | March 27-28 | Web, Performance | ❌ | [✅](https://perfmattersconf.com/code/) |
 | [DevConf ZA](https://www.devconf.co.za/) | Cape Town, South Africa 🇿🇦 | March 29 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
-| [JS Fest](http://jsfest.com.ua/indexe.html) | Kyiv, Ukraine 🇺🇦 | March 30-31 | JavaScript | [✅](http://jsfest.com.ua/speakers_eng.html) | ❌ |
+| [JS Fest](http://jsfest.com.ua/indexe.html) | Kyiv, Ukraine 🇺🇦 | March 30-31 | JavaScript | [❌](http://jsfest.com.ua/speakers_eng.html) | ❌ |
 
 ## April
 
@@ -90,8 +90,8 @@ Thank you 🙏
 | [Pro Web](https://2018.programming-conference.org) | Nice, France 🇫🇷 | April 9-12 | Development, Web | [❌](https://2018.programming-conference.org/track/proweb-2018-papers) |❓ |
 | [Web à Québec](http://www.webaquebec.org/en) | Québec, Canada 🇨🇦 | April 10-12 | Development, Web | [❌](https://docs.google.com/forms/d/e/1FAIpQLSfBycxEH2ksIK0fnrXYTSZkb2EQSMFHwyTkC1j36NyyVlKNGQ/closedform) | [✅](http://www.webaquebec.org/code-de-conduite) |
 | [International JavaScript Conference 2018](https://javascript-conference.com/en/) | London, UK 🇬🇧 | April 11-13 | JavaScript, Web Development & Architecture | ❌ | [✅](https://javascript-conference.com/service-info-en/code-of-conduct-en/) |
-| [Web Directions Design Leaders](http://webdirections.org/designleaders) | Melbourne, Australia 🇦🇺 | April 11 | Team lead, culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
-| [Web Directions Design](http://webdirections.org/design) | Melbourne, Australia 🇦🇺 | April 12-13 | User Research, CX, UX, UI, Product Design | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
+| [Web Directions Design Leaders](http://webdirections.org/designleaders) | Melbourne, Australia 🇦🇺 | April 11 | Team lead, culture | [❌](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
+| [Web Directions Design](http://webdirections.org/design) | Melbourne, Australia 🇦🇺 | April 12-13 | User Research, CX, UX, UI, Product Design | [❌](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [React Amsterdam](https://react.amsterdam/) | Amsterdam, The Netherlands 🇳🇱 | April 13 | JavaScript, React | [❌](https://goo.gl/forms/TXVpj5rIdSPP47bd2) | [✅](http://confcodeofconduct.com/) |
 | [Universal JS Day](https://2018.universaljsday.com/) | Ferrara, Italy 🇮🇹 | April 13 | JavaScript | [✅](https://2018.universaljsday.com/#cfp) | ❓ |
 | [UX + DEV Summit](https://uxdsummit.com/) | Fort Lauderdale (FL), USA 🇺🇸 | April 14-16 | Frontend, UX | ✅ | [✅](https://uxdsummit.com/call-for-speakers/) |
@@ -106,7 +106,7 @@ Thank you 🙏
 | [React Finland](https://react-finland.fi/) | Helsinki, Finland 🇫🇮 | April 24-26 | Development, JavaScript, React, Web | ❌ | [✅](http://berlincodeofconduct.org/) |
 | [Generate New York](https://www.generateconf.com/new-york) | New York (NY), USA 🇺🇸 | April 25-27 | Web, Design | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg (FL), USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
-| [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [✅](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
+| [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [❌](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
 | [UphillConf](http://uphillconf.com/) | Bern, Switzerland 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
 
 ## May
@@ -123,14 +123,14 @@ Thank you 🙏
 | [Devoxx UK](https://www.devoxx.co.uk/) | London, UK 🇬🇧  | May 9-11 | Development, Architecture | [❌](https://cfp.devoxx.co.uk/) | ❓ |
 | [DeltaV Conference](https://2018.deltavconf.com/) | London, UK 🇬🇧  | May 10-11 | Web, Performance | ❓ | [✅](https://2018.deltavconf.com/code-of-conduct) |
 | [phpDay](https://2018.phpday.it/) | Verona, Italy 🇮🇹 | May 11-12 | PHP | [❌](https://cfp.phpday.it/) | [✅](https://2018.phpday.it/coc.html) |
-| [AccessU](https://knowbility.org/education/accessu/) | Austin (TX), USA 🇺🇸 | May 14-16 | Accessibility, Web, Documents | [✅](https://knowbility.org/education/accessu/share-your-expertise-at-john-slatin-accessu/) | ❓ |
+| [AccessU](https://knowbility.org/education/accessu/) | Austin (TX), USA 🇺🇸 | May 14-16 | Accessibility, Web, Documents | [❌](https://knowbility.org/education/accessu/share-your-expertise-at-john-slatin-accessu/) | ❓ |
 | [React Europe](https://www.react-europe.org/) | Paris, France 🇫🇷 | May 17-18 | JavaScript, React | [✅](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp) | [✅](http://confcodeofconduct.com/) |
 | [Nation JS](http://nationjs.com/) | Washington DC, USA 🇺🇸 | May 18 | JavaScript | [✅](https://www.papercall.io/nationjs2018) | [✅](http://nationjs.com/conduct/index) |
-| [Holy JS](https://holyjs-piter.ru/en/) | St.Petersburg, Russia 🇷🇺 | May 19-20 | JavaScript | [✅](https://holyjs-piter.ru/en/callforpapers/) | [✅](https://holyjs-piter.ru/en/codeofconduct/) |
+| [Holy JS](https://holyjs-piter.ru/en/) | St.Petersburg, Russia 🇷🇺 | May 19-20 | JavaScript | [❌](https://holyjs-piter.ru/en/callforpapers/) | [✅](https://holyjs-piter.ru/en/codeofconduct/) |
 | [YGLF](http://yglf.com.ua/) | Kyiv, Ukraine 🇺🇦 | May 24-25 | JavaScript, HTML, CSS | ✅ | [✅](http://yglf.com.ua/code-of-conduct) |
-| [DjangoCon Europe](https://2018.djangocon.eu/) | Heidelberg, Germany 🇩🇪 | May 23-27 | Django, Python, Web | [✅](https://2018.djangocontent.eu/hd/cfp) | [✅](https://2018.djangocon.eu/conduct/) |
+| [DjangoCon Europe](https://2018.djangocon.eu/) | Heidelberg, Germany 🇩🇪 | May 23-27 | Django, Python, Web | [❌](https://2018.djangocontent.eu/hd/cfp) | [✅](https://2018.djangocon.eu/conduct/) |
 | [Front Trends](https://2018.front-trends.com/) | Warsaw, Poland 🇵🇱 | May 24-25 | JavaScript, HTML, CSS | [✅](https://2018.front-trends.com/speaking-at-front-trends/) | [✅](https://2018.front-trends.com/code-of-conduct/) |
-| [Sud Web](https://sudweb.fr/2018/en) | Anduze, France 🇫🇷 | May 25-26 | Web, Standards, Personal development | [✅](https://sudweb.fr/2018/en/cfp/) | [✅](https://sudweb.fr/2018/en/code-of-conduct/) |
+| [Sud Web](https://sudweb.fr/2018/en) | Anduze, France 🇫🇷 | May 25-26 | Web, Standards, Personal development | [❌](https://sudweb.fr/2018/en/cfp/) | [✅](https://sudweb.fr/2018/en/code-of-conduct/) |
 | [DevSum18](http://www.devsum.se/) | Stockholm, Sweden 🇸🇪 | May 31 - June 1 | Development, Architecture | [❌](http://www.devsum.se/cfp/) | [✅](http://www.devsum.se/code-of-conduct/) |
 | [Frontend United](http://frontendunited.org/) | Utrecht, The Netherlands 🇳🇱 | May 31 - June 2 | JavaScript, HTML, CSS, Drupal | ❌ | [✅](http://2016.frontendunited.org/code-of-conduct) |
 
