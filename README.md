@@ -116,6 +116,7 @@ Thank you 🙏
 | [Codeland](http://codelandconf.com/) | New York (NY), USA 🇺🇸 | May 4-5 | Development, Newcomers | ❌ | [✅](http://codelandconf.com/coc/) |
 | [beyond tellerrand // Düsseldorf 2018](https://beyondtellerrand.com/) | Düsseldorf, Germany 🇩🇪  | May 7-9 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul (MN), USA 🇺🇸 | May 7-10 | Development, Architecture | [❌](https://ndcminnesota.com/page/call-for-papers/) | [✅](https://ndcminnesota.com/page/code-of-conduct) |
+| [Angular Summit](https://angularsummit.com/conference/chicago/2018/05/home) | Chicago (IL), USA 🇺🇸 | May 8-10 | Angular, JavaScript | ❌ | [✅](https://angularsummit.com/home/code_of_conduct) |
 | [Codemotion](https://codemotionworld.com/) | Amsterdam, The Netherlands 🇳🇱 | May 8-9 | Development, Architecture | [✅](http://speaker.codemotionworld.com/c4p.php) | [✅](https://codemotionworld.com/code-of-conduct/) |
 | [JSDay Italy](https://2018.jsday.it/) | Verona, Italy 🇮🇹 | May 9-10 | JavaScript | [❌](https://cfp.jsday.it/) | [✅](https://2018.jsday.it/coc.html) |
 | [Devoxx UK](https://www.devoxx.co.uk/) | London, UK 🇬🇧  | May 9-11 | Development, Architecture | [❌](https://cfp.devoxx.co.uk/) | ❓ |
