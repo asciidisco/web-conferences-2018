@@ -193,6 +193,7 @@ Thank you 🙏
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden 🇸🇪 | September 6-7 | JavaScript | [✅](http://cfp.nordicjs.com/) | [✅](http://diversity.nordicjs.com/) |
 | [Refresh](http://refresh.rocks/) | Tallin, Estonia 🇪🇪 | September 7 | Web, Design, Ux | [✅](http://refresh.rocks/call-for-papers/) | [✅](http://refresh.rocks/code-of-conduct) |
 | [Webkongress Erlangen](https://www.webkongress.fau.de/) | Erlangen, Germany 🇩🇪  | September 11-13 | Web, JavaScript, HTML, CSS | [✅](https://www.webkongress.fau.de/call-for-paper/) | ❓ |
+| [React Alicante 2018](http://reactalicante.es/) | Alicante, Spain 🇪🇸  | September 13-15 | JavaScript, React | [✅](https://docs.google.com/forms/d/e/1FAIpQLScuzQq1BYpr0gvdZsY3Omub8msVj3rpIEXGNppUn8dEkPezuw/viewform) | ❓ |
 | [JSFoo](https://jsfoo.in/) | Bangalore, India 🇮🇳  | September 15-16 | Web, JavaScript, Design, Ux | [✅](https://jsfoo.talkfunnel.com/2018/) | [✅](https://jsfoo.in/code-of-conduct/) |
 | [Generate London](https://www.generateconf.com/london) | London, UK 🇬🇧  | September 19-21 | Web, Design | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
 | [WebExpo](https://www.webexpo.net/) | Prague, Czech Republic 🇨🇿 | September 21-22 | Web, JavaScript, Design, Ux | ❌  | [✅](http://confcodeofconduct.com/) |
