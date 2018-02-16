@@ -59,6 +59,7 @@ Thank you 🙏
 | [GIT Merge](https://git-merge.com/) | Barcelona, Spain 🇪🇸 | March 8 | Git | [❌](https://github.submittable.com/submit/101176/git-merge-2018-call-for-proposals) | [✅](https://git-merge.com/code-of-conduct.html) |
 | [ScaleConf](http://scaleconf.org/) | Cape Town, South Africa 🇿🇦 | March 8-9| Scalability, DevOps, Web | [✅](http://scaleconf.org/submit-talk/) | [✅](http://scaleconf.org/codeofconduct/) |
 | [ReactFest 2018](https://reactfest.com/) | London, UK 🇬🇧  | March 9 | JavaScript, React | [❌](https://docs.google.com/forms/d/e/1FAIpQLScACeKKR_21RSDcKUxfsjLd1jCCeq-QHxll78gF99rmQCcljA/viewform) |❓ |
+| [KrakowJS Conf](http://conf.krakowjs.pl/) | Krakow, Poland 🇵🇱 | March 9 | JavaScript | [✅](http://conf.krakowjs.pl/) | [✅](http://confcodeofconduct.com/) |
 | [TSConf](https://tsconf.io/) | Seattle (WA), USA 🇺🇸  | March 12-13 | TypeScript, JavaScript | [❌](https://tsconf.io/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [Internet of Things Conference](https://iotcon.de/de/) | Munich, Germany 🇩🇪  | March 12-14 | IoT | ❌ | ❓ |
 | [Pixel Up!](https://pixelup.co.za) | Johannesburg, South Africa 🇿🇦 | March 12-14 | UX, Product Design, Web | ❌ | [✅](https://pixelup.co.za/code-of-conduct) |
