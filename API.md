@@ -98,7 +98,7 @@ Using cURL:
 curl 'https://webconf-api-2018.glitch.me/'
 ```
 
-Usng Node.js:
+Using Node.js:
 
 ```javascript
 const https = require('https')
