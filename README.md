@@ -199,6 +199,7 @@ Thank you 🙏
 | [Generate London](https://www.generateconf.com/london) | London, UK 🇬🇧  | September 19-21 | Web, Design | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
 | [WebExpo](https://www.webexpo.net/) | Prague, Czech Republic 🇨🇿 | September 21-22 | Web, JavaScript, Design, Ux | ❌ | [✅](http://confcodeofconduct.com/) |
 | [DevConf](http://devconf.pl/) | Krakow, Poland 🇵🇱 | September 26-28 | Web, JavaScript, Development | [✅](https://www.papercall.io/devconf-2018) | ❌ |
+| [Dot All](http://dotall.com/2018) | Berlin, Germany 🇩🇪 | September 26-28 | Craft CMS | [✅](http://dotall.com/2018-call-for-speakers) | [✅](http://dotall.com/code-of-conduct/) |
 
 ## October
 
