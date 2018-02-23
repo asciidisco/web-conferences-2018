@@ -172,7 +172,7 @@ Thank you 🙏
 | [Curry On Conf](http://curry-on.org/) | Amsterdam, The Netherlands 🇳🇱 | July 16 | Development, Architecture | [✅](http://curry-on.org/2018/call-for-presentations.html) | [✅](http://curry-on.org/2017/code-of-conduct.html) |
 | [ScotlandCSS](http://scotlandcss.com/) | Edinburgh, UK 🇬🇧  | July 18 | CSS | [✅](https://www.papercall.io/scotlandcss-2018) | [✅](http://scotlandcss.com/codeofconduct/) |
 | [ScotlandJS](http://scotlandjs.com/) | Edinburgh, UK 🇬🇧  | July 19-20 | JavaScript | [✅](https://www.papercall.io/scotlandjs-2018) | [✅](http://scotlandjs.com/codeofconduct/) |
-| [AngularCamp](https://twitter.com/AngularCamp/) | Barcelona, Spain 🇪🇸 | July 18-20 | JavaScript, Community, Frameworks, Web Technologies | ❌ | [✅](https://github.com/AngularCamp/angularcamp.tech/blob/master/code-of-conduct.md) |
+| [AngularCamp](https://twitter.com/AngularCamp/) | Barcelona, Spain 🇪🇸 | July 18-20 | JavaScript, Community, Frameworks, Web Technologies | [✅](https://medium.com/@AngularCamp/call-for-papers-b55441f3923d) | [✅](https://github.com/AngularCamp/angularcamp.tech/blob/master/code-of-conduct.md) |
 | [NodeSummit](http://www.nodesummit.com) | San Francisco (CA), USA 🇺🇸 | July 23-25 | JavaScript, Node.js | [✅](http://www.nodesummit.com/speakers/become-a-speaker/) | [✅](http://www.nodesummit.com/node-summit-code-of-conduct/) |
 
 ## August
