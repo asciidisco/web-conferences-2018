@@ -108,7 +108,7 @@ Thank you 🙏
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg (FL), USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [❌](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
 | [UphillConf](http://uphillconf.com/) | Bern, Switzerland 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
-| [<React.NotAConf />](http://react-not-a-conf.com/) | Sofia, Bulgaria 🇧🇬 | April 28 | Frontend, JavaScript, React, GraphQL | ❌ | [✅](http://berlincodeofconduct.org/) |
+| [React.NotAConf](http://react-not-a-conf.com/) | Sofia, Bulgaria 🇧🇬 | April 28 | Frontend, JavaScript, React, GraphQL | ❌ | [✅](http://berlincodeofconduct.org/) |
 
 ## May
 
