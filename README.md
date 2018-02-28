@@ -199,6 +199,7 @@ Thank you 🙏
 | [React Alicante 2018](http://reactalicante.es/) | Alicante, Spain 🇪🇸  | September 13-15 | JavaScript, React | [✅](https://docs.google.com/forms/d/e/1FAIpQLScuzQq1BYpr0gvdZsY3Omub8msVj3rpIEXGNppUn8dEkPezuw/viewform) | ❓ |
 | [JSFoo](https://jsfoo.in/) | Bangalore, India 🇮🇳  | September 15-16 | Web, JavaScript, Design, Ux | [✅](https://jsfoo.talkfunnel.com/2018/) | [✅](https://jsfoo.in/code-of-conduct/) |
 | [Generate London](https://www.generateconf.com/london) | London, UK 🇬🇧  | September 19-21 | Web, Design | ❌ | [✅](https://www.generateconf.com/code-of-conduct) |
+| [Web Audio Conf](http://webaudioconf.com/) | Berlin, Germany 🇩🇪 | September 19-21 | JavaScript, WebAssembly, Web Audio, Web MIDI | [✅](http://webaudioconf.com/call-for-submissions) | [✅](http://berlincodeofconduct.org/) |
 | [WebExpo](https://www.webexpo.net/) | Prague, Czech Republic 🇨🇿 | September 21-22 | Web, JavaScript, Design, Ux | ❌ | [✅](http://confcodeofconduct.com/) |
 | [DevConf](http://devconf.pl/) | Krakow, Poland 🇵🇱 | September 26-28 | Web, JavaScript, Development | [✅](https://www.papercall.io/devconf-2018) | ❌ |
 | [Dot All](http://dotall.com/2018) | Berlin, Germany 🇩🇪 | September 26-28 | Craft CMS | [✅](http://dotall.com/2018-call-for-speakers) | [✅](http://dotall.com/code-of-conduct/) |
