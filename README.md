@@ -147,6 +147,7 @@ Thank you 🙏
 | [JSConf EU](https://2018.jsconf.eu/) | Berlin, Germany 🇩🇪  | June 2-3 | JavaScript | [❌](https://2018.jsconf.eu/call-for-speakers/) | [✅](https://2018.jsconf.eu/code-of-conduct/) |
 | [Web Rebels](https://www.webrebels.org/) | Oslo, Norway 🇳🇴 | June 4-5 | Web, CSS, JavaScript | [❌](https://www.papercall.io/webreb2018) | [✅](http://jsconf.com/codeofconduct.html) |
 | [Webconf.asia 2018](https://webconf.asia/) | Hong Kong 🇭🇰 | June 6-9 | Web | ❌ | [✅](https://webconf.asia/code-of-conduct) |
+| [TakeOff Conf](https://www.takeoffconf.io/) | Lille, France 🇫🇷  | June 7-8 | HTML, CSS, JavaScript | [✅](https://www.takeoffconf.io/identity/registrations/new) | [✅](https://www.takeoffconf.io/coc) |
 | [Best of Web](http://bestofweb.paris/) | Paris, France 🇫🇷  | June 7-8 | HTML, CSS, JavaScript | [❌](https://checkout.eventlama.com/#/events/best-of-web-2018/cfp) | [✅](http://confcodeofconduct.com/) |
 | [Pixel Pioneers](https://pixelpioneers.co/events/bristol-2018) | Bristol, UK 🇬🇧 | June 8 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
 | [pitercss_conf](https://pitercss.com/) | St. Petersburg, Russia 🇷🇺 | June 8-9 | HTML, CSS, SVG, JavaScript, Typography | [✅](https://pitercss.com/call-for-speakers/) | [✅](https://pitercss.com/code-of-conduct/) |
