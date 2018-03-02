@@ -226,7 +226,6 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
-| [Pixel Pioneers](https://pixelpioneers.co/) | Belfast, Northern Ireland 🇮🇪 | November 1 | Web | [✅](https://pixelpioneers.co/call-for-speakers) | [✅](http://confcodeofconduct.com/) |
 | [Web Directions AI](http://webdirections.org/ai) | Sydney, Australia 🇦🇺 | November 7 | AI | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [Web Directions Culture](http://webdirections.org/culture) | Sydney, Australia 🇦🇺 | November 7 | Team Lead, Culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [DevRelCon](https://london-2018.devrel.net/) | London, UK 🇬🇧  | November 8 | Development, Evangelism, Developer Relations | [✅](https://www.papercall.io/devrelcon-london-2018) | [✅](https://london-2018.devrel.net/code-of-conduct/index.html) |
@@ -237,7 +236,8 @@ Thank you 🙏
 | [ColdFront 2018](https://2018.coldfront.co) | Copenhagen, Denmark 🇩🇰 | November 13-14 | Web, Mobile, Front-end, Interfaces | ❌  | [✅](http://confcodeofconduct.com/) |
 | [HalfStack](http://halfstackconf.com/) | London, UK 🇬🇧  | November 16 | JavaScript, Web | [✅](http://halfstackconf.com/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [Material 18](https://material.is/2018/) | Reykjavík, Iceland 🇮🇸 | November 16 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
-| [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC39, Tooling, Standards | ❌  | [✅](https://2017.js-kongress.de/code-of-conduct/) |
+| [Pixel Pioneers](https://pixelpioneers.co/) | Belfast, Northern Ireland 🇮🇪 | November 23 | Web | [✅](https://pixelpioneers.co/call-for-speakers) | [✅](http://confcodeofconduct.com/) |
+| [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC39, Tooling, Standards | ❌ | [✅](https://2017.js-kongress.de/code-of-conduct/) |
 
 ## December
 
