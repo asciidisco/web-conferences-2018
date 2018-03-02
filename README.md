@@ -189,6 +189,7 @@ Thank you 🙏
 | [BrazilJS Conf](https://braziljs.org/) | Porto Alegre, Brazil 🇧🇷 | August 24-25 | JavaScript, Web, Node, UX | ❌ | [✅](https://braziljs.org/coc) |
 | [Web Summer Camp](http://2018.websummercamp.com/) | Rovinj, Croatia 🇭🇷 | August 29 - September 1 | PHP, JavaScript | [✅](https://sessionize.com/websummercamp2018/) | [✅](http://2018.websummercamp.com/code-of-conduct) |
 | [Frontend Conference Zurich](https://www.frontendconf.ch/) | Zurich, Switzerland 🇨🇭 | August 30-31 | Design, UX , Frontend, Web | [✅](https://docs.google.com/forms/d/e/1FAIpQLSc_ZxKqO3syF3URm9RnSdCRnaSS_p_Iw6nB3GZVwDEmAYDWXg/viewform) | [✅](https://www.frontendconf.ch/code-of-conduct) |
+| [Nightlybuild](https://nightlybuild.io/) | Cologne, Germany 🇩🇪 | August 31 | Design, UX , Frontend, Web | ✅ | [✅](https://nightlybuild.io/coc) |
 
 ## September
 
