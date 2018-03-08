@@ -214,7 +214,6 @@ Thank you 🙏
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | [✅ ](https://techorama.nl/cfp/) | ❓ |
 | [Framework Summit](https://www.frameworksummit.com/) | Park City (UT), USA 🇺🇸 | October 2-3 | JavaScript, Node | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfvEADqRfF-PqQPqsqlPQORKtZfm4z8AttWyy6DraRSj7U7NA/viewform) | [✅](https://uploads-ssl.webflow.com/5a32c55e4a2f7d000197a6ce/5a711f4471b0100001ce2146_Framework%20Summit%20Code%20of%20Conduct.pdf) |
 | [Paris Web](https://www.paris-web.fr/) | Paris, France 🇫🇷 | October 4-6 | Web, UX, Design, Accessibility | [✅](https://appel-orateurs.paris-web.fr/) | [✅](https://www.paris-web.fr/code-de-conduite.php/) |
-| [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia 🇨🇴 | October 5-6 | JavaScript, Node | [✅](http://cfp.jsconf.co/) | [✅](https://jsconf.co/codeofconduct) |
 | [Confront](https://confront.se/) |  Malmö, Sweden 🇸🇪 | October 5 | Web, Design | ❌ | [✅](https://confront.se/code-of-conduct/) |
 | [React JS Day](http://2018.reactjsday.it/) |  Verona, Italy 🇮🇹 | October 5 | JavaScript, React |[✅](https://goo.gl/forms/BKygQgXoJdUKIjaW2)| [✅](http://2018.reactjsday.it/coc.html) |
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript, Node | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
