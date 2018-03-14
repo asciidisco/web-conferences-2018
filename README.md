@@ -125,6 +125,7 @@ Thank you 🙏
 | [DeltaV Conference](https://2018.deltavconf.com/) | London, UK 🇬🇧  | May 10-11 | Web, Performance | ❓ | [✅](https://2018.deltavconf.com/code-of-conduct) |
 | [phpDay](https://2018.phpday.it/) | Verona, Italy 🇮🇹 | May 11-12 | PHP | [❌](https://cfp.phpday.it/) | [✅](https://2018.phpday.it/coc.html) |
 | [AccessU](https://knowbility.org/education/accessu/) | Austin (TX), USA 🇺🇸 | May 14-16 | Accessibility, Web, Documents | [❌](https://knowbility.org/education/accessu/share-your-expertise-at-john-slatin-accessu/) | ❓ |
+| [WeAreDevelopers](https://www.wearedevelopers.com/) | Vienna, Austria 🇦🇹  | May 16-18 | Backend, Agile, AI, Frontend, UX, IoT, Mobile, CI, DevOps, TDD, Privacy, Security  | ❌ | ❌ |
 | [React Europe](https://www.react-europe.org/) | Paris, France 🇫🇷 | May 17-18 | JavaScript, React | [❌](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp) | [✅](http://confcodeofconduct.com/) |
 | [Nation JS](http://nationjs.com/) | Washington DC, USA 🇺🇸 | May 18 | JavaScript | [❌](https://www.papercall.io/nationjs2018) | [✅](http://nationjs.com/conduct/index) |
 | [Holy JS](https://holyjs-piter.ru/en/) | St.Petersburg, Russia 🇷🇺 | May 19-20 | JavaScript | [❌](https://holyjs-piter.ru/en/callforpapers/) | [✅](https://holyjs-piter.ru/en/codeofconduct/) |
