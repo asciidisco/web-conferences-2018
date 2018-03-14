@@ -125,6 +125,7 @@ Thank you 🙏
 | [DeltaV Conference](https://2018.deltavconf.com/) | London, UK 🇬🇧  | May 10-11 | Web, Performance | ❓ | [✅](https://2018.deltavconf.com/code-of-conduct) |
 | [phpDay](https://2018.phpday.it/) | Verona, Italy 🇮🇹 | May 11-12 | PHP | [❌](https://cfp.phpday.it/) | [✅](https://2018.phpday.it/coc.html) |
 | [AccessU](https://knowbility.org/education/accessu/) | Austin (TX), USA 🇺🇸 | May 14-16 | Accessibility, Web, Documents | [❌](https://knowbility.org/education/accessu/share-your-expertise-at-john-slatin-accessu/) | ❓ |
+| [WeAreDevelopers](https://www.wearedevelopers.com/) | Vienna, Austria 🇦🇹  | May 16-18 | Backend, Agile, AI, Frontend, UX, IoT, Mobile, CI, DevOps, TDD, Privacy, Security  | ❌ | ❌ |
 | [React Europe](https://www.react-europe.org/) | Paris, France 🇫🇷 | May 17-18 | JavaScript, React | [❌](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp) | [✅](http://confcodeofconduct.com/) |
 | [Nation JS](http://nationjs.com/) | Washington DC, USA 🇺🇸 | May 18 | JavaScript | [❌](https://www.papercall.io/nationjs2018) | [✅](http://nationjs.com/conduct/index) |
 | [Holy JS](https://holyjs-piter.ru/en/) | St.Petersburg, Russia 🇷🇺 | May 19-20 | JavaScript | [❌](https://holyjs-piter.ru/en/callforpapers/) | [✅](https://holyjs-piter.ru/en/codeofconduct/) |
@@ -217,6 +218,7 @@ Thank you 🙏
 | [Confront](https://confront.se/) |  Malmö, Sweden 🇸🇪 | October 5 | Web, Design | ❌ | [✅](https://confront.se/code-of-conduct/) |
 | [React JS Day](http://2018.reactjsday.it/) |  Verona, Italy 🇮🇹 | October 5 | JavaScript, React |[✅](https://goo.gl/forms/BKygQgXoJdUKIjaW2)| [✅](http://2018.reactjsday.it/coc.html) |
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript, Node | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
+| [WDC Web Developer Conference](http://www.web-developer-conference.de/) | Munich, Germany 🇩🇪 | October 16-18 | Angular, Progressive Web Apps | [✅](https://goo.gl/forms/rFbDc90QAMNFCoBC2) | ❓ |
 | [RuhrJS](https://ruhrjs.de/) | Essen, Germany 🇩🇪 | October 13-14 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | [✅](https://ruhrjs.de/code-of-conduct) |
 | [DevFest Nantes](https://devfest.gdgnantes.com) | Nantes, France 🇫🇷 | October 18-19 | Web, Javascript, Backend, Mobile, Ux | ❌ | [✅](https://devfest.gdgnantes.com/cod/?hl=en) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland 🇨🇭 | October 20 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
@@ -234,6 +236,7 @@ Thank you 🙏
 | [BRING IT TOGETHER](http://bringittogether.ca/) | Niagara Falls, Canada 🇨🇦 | November 8-10 | Web, Education | ❌  | [✅](http://bringittogether.ca/anti-harassement-statement-declaration-contre-lharcelement/) |
 | [dotJS](https://www.dotjs.io/) | Paris, France 🇫🇷 | November 9 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | [✅](https://www.dotconferences.com/codeofconduct) |
 | [ColdFront 2018](https://2018.coldfront.co) | Copenhagen, Denmark 🇩🇰 | November 13-14 | Web, Mobile, Front-end, Interfaces | ❌  | [✅](http://confcodeofconduct.com/) |
+| [Continuous Lifecycle](https://www.continuouslifecycle.de/) | Mannheim, Germany 🇩🇪 | November 13-16 | Continuous Delivery, DevOps | [✅](https://www.continuouslifecycle.de/call.php) | [✅](https://www.continuouslifecycle.de/konferenz_coc.php) |
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia 🇨🇴 | November 16-17 | JavaScript | ✅ | [✅](http://jsconf.com/codeofconduct.html) |
 | [HalfStack](http://halfstackconf.com/) | London, UK 🇬🇧  | November 16 | JavaScript, Web | [✅](http://halfstackconf.com/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [Material 18](https://material.is/2018/) | Reykjavík, Iceland 🇮🇸 | November 16 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
