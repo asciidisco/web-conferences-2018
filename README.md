@@ -78,6 +78,7 @@ Thank you 🙏
 | [#PerfMatters](https://perfmattersconf.com/) | Redwood City (CA), USA 🇺🇸 | March 27-28 | Web, Performance | ❌ | [✅](https://perfmattersconf.com/code/) |
 | [DevConf ZA](https://www.devconf.co.za/) | Cape Town, South Africa 🇿🇦 | March 29 | Development, Web | ❌ | [✅](https://www.devconf.co.za/conduct.html) |
 | [JS Fest](http://jsfest.com.ua/indexe.html) | Kyiv, Ukraine 🇺🇦 | March 30-31 | JavaScript | [❌](http://jsfest.com.ua/speakers_eng.html) | ❌ |
+| [CSSConf](https://css.w3ctech.com/) | Amoy(Xiamen), China 🇨🇳 | March 31 | CSS | ❌ | ❌ |
 
 ## April
 
