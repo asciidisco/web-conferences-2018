@@ -226,6 +226,7 @@ Thank you 🙏
 | [DevFest Nantes](https://devfest.gdgnantes.com) | Nantes, France 🇫🇷 | October 18-19 | Web, Javascript, Backend, Mobile, Ux | ❌ | [✅](https://devfest.gdgnantes.com/cod/?hl=en) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland 🇨🇭 | October 20 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [Blend Web Mix](http://www.blendwebmix.com/) | Lyon, France 🇫🇷 | October 24-25 | Web, JavaScript, Design, Ux | ❓ | [✅](http://www.blendwebmix.com/code-de-conduite/) |
+| [ReactiveConf](https://goo.gl/QD9FVN) | Prague, Czech Republic 🇨🇿 | October 29-31 | Web, Development, JavaScript | ✅ | ✅ |
 
 ## November
 
