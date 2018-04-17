@@ -189,7 +189,7 @@ Thank you 🙏
 | [React Rally](http://www.reactrally.com/) | Salt Lake City (UT), USA 🇺🇸 | August 16-17 | JavaScript, React | ❓ | [✅](http://www.reactrally.com/conduct) |
 | [CSSconf Argentina](http://cssconfar.com/) | Buenos Aires, Argentina 🇦🇷 | August 18 | CSS |  [✅](https://docs.google.com/forms/d/e/1FAIpQLSc0P8yS2Zix93rLvbUlWlrZs3pr8UedXNf_NhL78PhIC-RJ-Q/viewform)  | [✅](http://confcodeofconduct.com/) |
 | [Form & Function Class 9](http://2018.formfunctionclass.com/) | Manila, Philippines 🇵🇭 | August 18 | Design, UX , Frontend, Web | ❌  | ❓ |
-| [JSConf US](http://lastcall.jsconf.us/) | Carlsbad (CA), USA 🇺🇸 | August 21-23 | JavaScript | ❓ | [✅](http://jsconf.com/codeofconduct.html) |
+| [JSConf US](https://2018.jsconf.us/) | Carlsbad (CA), USA 🇺🇸 | August 21-23 | JavaScript | ❓ | [✅](http://jsconf.com/codeofconduct.html) |
 | [BrazilJS Conf](https://braziljs.org/) | Porto Alegre, Brazil 🇧🇷 | August 24-25 | JavaScript, Web, Node, UX | ❌ | [✅](https://braziljs.org/coc) |
 | [Web Summer Camp](http://2018.websummercamp.com/) | Rovinj, Croatia 🇭🇷 | August 29 - September 1 | PHP, JavaScript | [✅](https://sessionize.com/websummercamp2018/) | [✅](http://2018.websummercamp.com/code-of-conduct) |
 | [Frontend Conference Zurich](https://www.frontendconf.ch/) | Zurich, Switzerland 🇨🇭 | August 30-31 | Design, UX , Frontend, Web | [✅](https://docs.google.com/forms/d/e/1FAIpQLSc_ZxKqO3syF3URm9RnSdCRnaSS_p_Iw6nB3GZVwDEmAYDWXg/viewform) | [✅](https://www.frontendconf.ch/code-of-conduct) |
