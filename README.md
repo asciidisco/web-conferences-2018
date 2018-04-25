@@ -117,6 +117,7 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Voxxed Days Melbourne](https://voxxeddays.com/melbourne/) | Melbourne, Australia 🇦🇺 | May 2-3 | Development, Web | [❌](https://sessionize.com/voxxed-days-melbourne/) | [✅](https://voxxeddays.com/melbourne/code-of-conduct/)|
 | [Codeland](http://codelandconf.com/) | New York (NY), USA 🇺🇸 | May 4-5 | Development, Newcomers | ❌ | [✅](http://codelandconf.com/coc/) |
+| [Ruby Unconf Hamburg 2018](https://rubyunconf.eu/) | Hamburg, Germany 🇩🇪 | May 5-6 | Development, Ruby, Open Space | ❌ | [✅](https://berlincodeofconduct.org/) |
 | [beyond tellerrand // Düsseldorf 2018](https://beyondtellerrand.com/) | Düsseldorf, Germany 🇩🇪  | May 7-9 |  Frontend, UX, Creativity | ❌ | [✅](https://beyondtellerrand.com/code-of-conduct) |
 | [NDC Minnesota](https://ndcminnesota.com/) | St. Paul (MN), USA 🇺🇸 | May 7-10 | Development, Architecture | [❌](https://ndcminnesota.com/page/call-for-papers/) | [✅](https://ndcminnesota.com/page/code-of-conduct) |
 | [Angular Summit](https://angularsummit.com/conference/chicago/2018/05/home) | Chicago (IL), USA 🇺🇸 | May 8-10 | Angular, JavaScript | ❌ | [✅](https://angularsummit.com/home/code_of_conduct) |
