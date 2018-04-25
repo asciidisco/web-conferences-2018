@@ -226,6 +226,7 @@ Thank you 🙏
 | [WDC Web Developer Conference](http://www.web-developer-conference.de/) | Munich, Germany 🇩🇪 | October 16-18 | Angular, Progressive Web Apps | [✅](https://goo.gl/forms/rFbDc90QAMNFCoBC2) | ❓ |
 | [RuhrJS](https://ruhrjs.de/) | Essen, Germany 🇩🇪 | October 13-14 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | [✅](https://ruhrjs.de/code-of-conduct) |
 | [DevFest Nantes](https://devfest.gdgnantes.com) | Nantes, France 🇫🇷 | October 18-19 | Web, Javascript, Backend, Mobile, Ux | ❌ | [✅](https://devfest.gdgnantes.com/cod/?hl=en) |
+| [Software-QS-Tag 2018](http://www.qs-tag.de/) | Frankfurt on the Main, Germany 🇩🇪 | October 18-19 | Continuous Integration, Delivery und Deployment | [✅](http://www.qs-tag.de/call-for-papers/) | ❌ |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland 🇨🇭 | October 20 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [Blend Web Mix](http://www.blendwebmix.com/) | Lyon, France 🇫🇷 | October 24-25 | Web, JavaScript, Design, Ux | ❓ | [✅](http://www.blendwebmix.com/code-de-conduite/) |
 | [ReactiveConf](https://goo.gl/QD9FVN) | Prague, Czech Republic 🇨🇿 | October 29-31 | Web, Development, JavaScript | ✅ | ✅ |
