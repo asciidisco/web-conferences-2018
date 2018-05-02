@@ -136,6 +136,7 @@ Thank you 🙏
 | [DjangoCon Europe](https://2018.djangocon.eu/) | Heidelberg, Germany 🇩🇪 | May 23-27 | Django, Python, Web | [❌](https://2018.djangocontent.eu/hd/cfp) | [✅](https://2018.djangocon.eu/conduct/) |
 | [Front Trends](https://2018.front-trends.com/) | Warsaw, Poland 🇵🇱 | May 24-25 | JavaScript, HTML, CSS | [✅](https://2018.front-trends.com/speaking-at-front-trends/) | [✅](https://2018.front-trends.com/code-of-conduct/) |
 | [Sud Web](https://sudweb.fr/2018/en) | Anduze, France 🇫🇷 | May 25-26 | Web, Standards, Personal development | [❌](https://sudweb.fr/2018/en/cfp/) | [✅](https://sudweb.fr/2018/en/code-of-conduct/) |
+| [DevDay 18](https://devday.io) | Berlin, Germany 🇩🇪 | May 26 | Celebrating Software Craftsmanship (inspirational talks from all areas) | ❌ | [✅](https://devday.io/img/DevDay2018_Code_of_Conduct.pdf) |
 | [JSCONF.BE](https://www.jsconf.be/) | Bruges, Belgium 🇧🇪 | May 29-30 | JavaScript | [✅](https://www.jsconf.be/en/schedule) | [✅](https://www.jsconf.be/en/code-conduct) |
 | [DevSum18](http://www.devsum.se/) | Stockholm, Sweden 🇸🇪 | May 31 - June 1 | Development, Architecture | [❌](http://www.devsum.se/cfp/) | [✅](http://www.devsum.se/code-of-conduct/) |
 | [Frontend United](http://frontendunited.org/) | Utrecht, The Netherlands 🇳🇱 | May 31 - June 2 | JavaScript, HTML, CSS, Drupal | ❌ | [✅](http://2016.frontendunited.org/code-of-conduct) |
