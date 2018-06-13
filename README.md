@@ -234,6 +234,7 @@ Thank you 🙏
 | [NodeConf Argentina 2018](https://2018.nodeconf.com.ar) | Buenos Aires, Argentina 🇦🇷 | October 18-20 | JavaScript, Node | [✅](https://2018.nodeconf.com.ar/cfp.html) | [✅](https://2018.nodeconf.com.ar/conduct.html) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland 🇨🇭 | October 20 | Development, Web | ❌ | [✅](https://devoxx.com/codeofconduct.html) |
 | [Blend Web Mix](http://www.blendwebmix.com/) | Lyon, France 🇫🇷 | October 24-25 | Web, JavaScript, Design, Ux | ❓ | [✅](http://www.blendwebmix.com/code-de-conduite/) |
+| [Refresh Conference](https://refreshconference.nl) | Groningen, The Netherlands 🇳🇱 | October 26 | Web, Frontend, design, UX | ❌  | [✅](https://www.refreshconference.nl/coc.html) |
 | [ReactiveConf](https://goo.gl/QD9FVN) | Prague, Czech Republic 🇨🇿 | October 29-31 | Web, Development, JavaScript | ✅ | ✅ |
 
 ## November
