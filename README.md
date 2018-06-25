@@ -228,7 +228,7 @@ Thank you 🙏
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript, Node | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
 | [WDC Web Developer Conference](http://www.web-developer-conference.de/) | Munich, Germany 🇩🇪 | October 16-18 | Angular, Progressive Web Apps | [✅](https://goo.gl/forms/rFbDc90QAMNFCoBC2) | ❓ |
 | [RuhrJS](https://ruhrjs.de/) | Essen, Germany 🇩🇪 | October 13-14 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | [✅](https://ruhrjs.de/code-of-conduct) |
-| [International JavaScript Conference](https://javascript-conference.com/) | Munich, Germany 🇩 | October 15-19 | JavaScript, Web Development & Architecture | ❌ | [✅](https://javascript-conference.com/service-info/code-of-conduct/) |
+| [International JavaScript Conference](https://javascript-conference.com/) | Munich, Germany 🇩🇪 | October 15-19 | JavaScript, Web Development & Architecture | ❌ | [✅](https://javascript-conference.com/service-info/code-of-conduct/) |
 | [Mirror Conf](https://www.mirrorconf.com/) | Braga, Portugal 🇵🇹 | October 15-19 | Web, Design, Frontend | [✅](https://www.papercall.io/mirrorconf2018) | ✅ |
 | [DevFest Nantes](https://devfest.gdgnantes.com) | Nantes, France 🇫🇷 | October 18-19 | Web, Javascript, Backend, Mobile, Ux | ❌ | [✅](https://devfest.gdgnantes.com/cod/?hl=en) |
 | [Software-QS-Tag 2018](http://www.qs-tag.de/) | Frankfurt on the Main, Germany 🇩🇪 | October 18-19 | Continuous Integration, Delivery und Deployment | [✅](http://www.qs-tag.de/call-for-papers/) | ❌ |
