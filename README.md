@@ -203,6 +203,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [BlockchainConf.Tech](http://blockchainConf.Tech/) | Atlanta, USA 🇺 | September 5-7 | Python, JavaScript, Blockchain | ❌ | [✅](http://blockchainConf.Tech/) |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden 🇸🇪 | September 6-7 | JavaScript | [✅](http://cfp.nordicjs.com/) | [✅](http://diversity.nordicjs.com/) |
 | [Refresh](http://refresh.rocks/) | Tallin, Estonia 🇪🇪 | September 7 | Web, Design, Ux | [❌](http://refresh.rocks/call-for-papers/) | [✅](http://refresh.rocks/code-of-conduct) |
 | [State of the Browser](https://2018.stateofthebrowser.com/) | London, UK 🇬🇧 | September 8 | Web | [❌](https://twitter.com/londonwebstandards) | [✅](https://2018.stateofthebrowser.com/code-of-conduct/) |
@@ -231,6 +232,7 @@ Thank you 🙏
 | [RuhrJS](https://ruhrjs.de/) | Essen, Germany 🇩🇪 | October 13-14 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | [✅](https://ruhrjs.de/code-of-conduct) |
 | [International JavaScript Conference](https://javascript-conference.com/) | Munich, Germany 🇩🇪 | October 15-19 | JavaScript, Web Development & Architecture | ❌ | [✅](https://javascript-conference.com/service-info/code-of-conduct/) |
 | [Mirror Conf](https://www.mirrorconf.com/) | Braga, Portugal 🇵🇹 | October 15-19 | Web, Design, Frontend | [✅](https://www.papercall.io/mirrorconf2018) | ✅ |
+| [CONNECT.TECH](https://www.connect.tech/) | Atlanta, USA 🇺| October 15-19 | JavaScript, React, Angular, Node, Vue, Web, Design, Frontend | ❌ | ✅ |http://connect.tech/conduct.html
 | [DevFest Nantes](https://devfest.gdgnantes.com) | Nantes, France 🇫🇷 | October 18-19 | Web, Javascript, Backend, Mobile, Ux | ❌ | [✅](https://devfest.gdgnantes.com/cod/?hl=en) |
 | [Software-QS-Tag 2018](http://www.qs-tag.de/) | Frankfurt on the Main, Germany 🇩🇪 | October 18-19 | Continuous Integration, Delivery und Deployment | [✅](http://www.qs-tag.de/call-for-papers/) | ❌ |
 | [NodeConf Argentina 2018](https://2018.nodeconf.com.ar) | Buenos Aires, Argentina 🇦🇷 | October 18-20 | JavaScript, Node | [✅](https://2018.nodeconf.com.ar/cfp.html) | [✅](https://2018.nodeconf.com.ar/conduct.html) |
