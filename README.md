@@ -264,3 +264,4 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [NG-BE 2018](https://ng-be.org/) | Ghent, Belgium 🇧🇪 | December 6-7 | JavaScript, Angular | ❌ | [✅](https://ng-be.org/code-of-conduct) |
+| [FRONTEND CON 2018](http://www.frontend-con.io/) | Warsaw, Poland 🇵🇱 | December 4-5 | Frontend, Web, HTML, CSS, JavaScript | [✅](https://goo.gl/forms/cfcFRlH4lzgF8zhd2) | [✅](http://confcodeofconduct.com/) |
