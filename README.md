@@ -231,6 +231,7 @@ Thank you 🙏
 | [RuhrJS](https://ruhrjs.de/) | Essen, Germany 🇩🇪 | October 13-14 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | [✅](https://ruhrjs.de/code-of-conduct) |
 | [International JavaScript Conference](https://javascript-conference.com/) | Munich, Germany 🇩🇪 | October 15-19 | JavaScript, Web Development & Architecture | ❌ | [✅](https://javascript-conference.com/service-info/code-of-conduct/) |
 | [Mirror Conf](https://www.mirrorconf.com/) | Braga, Portugal 🇵🇹 | October 15-19 | Web, Design, Frontend | [✅](https://www.papercall.io/mirrorconf2018) | ✅ |
+| [CONNECT.TECH](https://www.connect,tech/) | Atlanta, USA 🇺🇸 | October 17-19 | Web, Design, Frontend, JavaScrpit, Vue.js, React, Angular, Node, Frameworks, Mobile Dev | ❌ | [✅](http://connect.tech/conduct.html) |
 | [DevFest Nantes](https://devfest.gdgnantes.com) | Nantes, France 🇫🇷 | October 18-19 | Web, Javascript, Backend, Mobile, Ux | ❌ | [✅](https://devfest.gdgnantes.com/cod/?hl=en) |
 | [Software-QS-Tag 2018](http://www.qs-tag.de/) | Frankfurt on the Main, Germany 🇩🇪 | October 18-19 | Continuous Integration, Delivery und Deployment | [✅](http://www.qs-tag.de/call-for-papers/) | ❌ |
 | [NodeConf Argentina 2018](https://2018.nodeconf.com.ar) | Buenos Aires, Argentina 🇦🇷 | October 18-20 | JavaScript, Node | [✅](https://2018.nodeconf.com.ar/cfp.html) | [✅](https://2018.nodeconf.com.ar/conduct.html) |
@@ -258,6 +259,7 @@ Thank you 🙏
 | [Material 18](https://material.is/2018/) | Reykjavík, Iceland 🇮🇸 | November 16 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Pixel Pioneers](https://pixelpioneers.co/) | Belfast, Northern Ireland 🇮🇪 | November 23 | Web | [✅](https://pixelpioneers.co/call-for-speakers) | [✅](http://confcodeofconduct.com/) |
 | [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC39, Tooling, Standards | ❌ | [✅](https://2017.js-kongress.de/code-of-conduct/) |
+| [DataSciCon.Tech](https://datascicon.tech/) | Atlanta, USA 🇺🇸 | November 28-30 | Data Science, Machine Learning, AI, Data Analytics, Python, Tensorflow, R |[✅](http://datascicon.tech/cfp.html) | [✅](http://datascicon.tech/) |
 
 ## December
 
