@@ -142,6 +142,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Smashing Conf Freiburg](https://smashingconf.com/) | Freiburg, Germany 🇩🇪 | September 10-11 | Frontend, Web, HTML, CSS, JavaScript, Design, UX | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Webkongress Erlangen](https://www.webkongress.fau.de/) | Erlangen, Germany 🇩🇪  | September 11-13 | Web, JavaScript, HTML, CSS | [✅](https://www.webkongress.fau.de/call-for-paper/) | ❓ |
 | [JSFoo](https://jsfoo.in/) | Bangalore, India 🇮🇳 | September 15-16 | Web, JavaScript, Design, Ux | [✅](https://jsfoo.talkfunnel.com/2018/) | [✅](https://jsfoo.in/code-of-conduct/) |
 | [WebExpo](https://www.webexpo.net/) | Prague, Czech Republic 🇨🇿 | September 21-22 | Web, JavaScript, Design, Ux | ❌  | [✅](http://confcodeofconduct.com/) |
@@ -152,6 +153,7 @@ Thank you 🙏
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | ✅ | ❓ |
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
+| [Smashing Conf New York](https://smashingconf.com/ny-2018/) | New York, USA 🇺🇸 | October 23-24 | Frontend, Web, HTML, CSS, JavaScript, Design, UX | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Blend Web Mix](http://www.blendwebmix.com/) | Lyon, France 🇫🇷 | October 24-25 | Web, JavaScript, Design, Ux | ❓ | [✅](http://www.blendwebmix.com/code-de-conduite/) |
 
 ## November
