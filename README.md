@@ -109,7 +109,7 @@ Thank you 🙏
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg (FL), USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [❌](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
 | [UphillConf](http://uphillconf.com/) | Bern, Switzerland 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
-|[ScaleConf Colombia](https://scaleconfco.com/) | Medellín, Colombia 🇨🇴 | April 27-28 | Scalability, Distributed Systems, DevOps, Modern Software Tools | ❌ | [✅](https://github.com/ScaleConfCo/code-of-conduct)
+| [ScaleConf Colombia](https://scaleconfco.com/) | Medellín, Colombia 🇨🇴 | April 27-28 | Scalability, Distributed Systems, DevOps, Modern Software Tools | ❌ | [✅](https://github.com/ScaleConfCo/code-of-conduct)
 | [React.NotAConf](http://react-not-a-conf.com/) | Sofia, Bulgaria 🇧🇬 | April 28 | Frontend, JavaScript, React, GraphQL | ❌ | [✅](http://berlincodeofconduct.org/) |
 
 ## May
@@ -203,6 +203,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Smashing Conf Freiburg](https://smashingconf.com/) | Freiburg, Germany 🇩🇪 | September 10-11 | Frontend, Web, HTML, CSS, JavaScript, Design, UX | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden 🇸🇪 | September 6-7 | JavaScript | [✅](http://cfp.nordicjs.com/) | [✅](http://diversity.nordicjs.com/) |
 | [Refresh](http://refresh.rocks/) | Tallin, Estonia 🇪🇪 | September 7 | Web, Design, Ux | [❌](http://refresh.rocks/call-for-papers/) | [✅](http://refresh.rocks/code-of-conduct) |
 | [State of the Browser](https://2018.stateofthebrowser.com/) | London, UK 🇬🇧 | September 8 | Web | [❌](https://twitter.com/londonwebstandards) | [✅](https://2018.stateofthebrowser.com/code-of-conduct/) |
@@ -220,6 +221,9 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | ✅ | ❓ |
+| [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
+| [Smashing Conf New York](https://smashingconf.com/ny-2018/) | New York, USA 🇺🇸 | October 23-24 | Frontend, Web, HTML, CSS, JavaScript, Design, UX | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | [✅ ](https://techorama.nl/cfp/) | ❓ |
 | [Framework Summit](https://www.frameworksummit.com/) | Park City (UT), USA 🇺🇸 | October 2-3 | JavaScript, Node | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfvEADqRfF-PqQPqsqlPQORKtZfm4z8AttWyy6DraRSj7U7NA/viewform) | [✅](https://uploads-ssl.webflow.com/5a32c55e4a2f7d000197a6ce/5a711f4471b0100001ce2146_Framework%20Summit%20Code%20of%20Conduct.pdf) |
 | [Fronteers Conference](https://fronteers.nl/congres/2018) | Amsterdam, The Netherlands 🇳🇱 | October 4-5 | Web, Frontend | ❌  | [✅](https://fronteers.nl/congres/2018/code-of-conduct) |
