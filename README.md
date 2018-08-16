@@ -222,7 +222,6 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | ✅ | ❓ |
-| [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
 | [Smashing Conf New York](https://smashingconf.com/ny-2018/) | New York, USA 🇺🇸 | October 23-24 | Frontend, Web, HTML, CSS, JavaScript, Design, UX | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | [✅ ](https://techorama.nl/cfp/) | ❓ |
 | [Framework Summit](https://www.frameworksummit.com/) | Park City (UT), USA 🇺🇸 | October 2-3 | JavaScript, Node | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfvEADqRfF-PqQPqsqlPQORKtZfm4z8AttWyy6DraRSj7U7NA/viewform) | [✅](https://uploads-ssl.webflow.com/5a32c55e4a2f7d000197a6ce/5a711f4471b0100001ce2146_Framework%20Summit%20Code%20of%20Conduct.pdf) |
