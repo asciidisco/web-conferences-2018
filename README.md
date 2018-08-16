@@ -109,7 +109,7 @@ Thank you 🙏
 | [FEDC](http://frontenddesignconference.com/) | St. Petersburg (FL), USA 🇺🇸 | April 25-27 | UX, Web, Frontend | ❌ | ❓ |
 | [#devone](https://devone.at/) | Linz, Austria 🇦🇹 | April 26 | Development, Architecture, DevOps | [❌](https://docs.google.com/forms/d/e/1FAIpQLScNVvrwDJMNoTPEIXDwSG8wgIQRLvcrjCiWAeEe3llCuF7IeA/viewform) | [✅](https://devone.at/code-of-conduct/) |
 | [UphillConf](http://uphillconf.com/) | Bern, Switzerland 🇨🇭 | April 26-27 | Frontend, JavaScript | ❌ | [✅](https://uphillconf.com/code-of-conduct/) |
-|[ScaleConf Colombia](https://scaleconfco.com/) | Medellín, Colombia 🇨🇴 | April 27-28 | Scalability, Distributed Systems, DevOps, Modern Software Tools | ❌ | [✅](https://github.com/ScaleConfCo/code-of-conduct)
+| [ScaleConf Colombia](https://scaleconfco.com/) | Medellín, Colombia 🇨🇴 | April 27-28 | Scalability, Distributed Systems, DevOps, Modern Software Tools | ❌ | [✅](https://github.com/ScaleConfCo/code-of-conduct)
 | [React.NotAConf](http://react-not-a-conf.com/) | Sofia, Bulgaria 🇧🇬 | April 28 | Frontend, JavaScript, React, GraphQL | ❌ | [✅](http://berlincodeofconduct.org/) |
 
 ## May
@@ -203,6 +203,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Smashing Conf Freiburg](https://smashingconf.com/) | Freiburg, Germany 🇩🇪 | September 10-11 | Frontend, Web, HTML, CSS, JavaScript, Design, UX | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Nordic.js](http://nordicjs.com/) | Stockholm, Sweden 🇸🇪 | September 6-7 | JavaScript | [✅](http://cfp.nordicjs.com/) | [✅](http://diversity.nordicjs.com/) |
 | [Refresh](http://refresh.rocks/) | Tallin, Estonia 🇪🇪 | September 7 | Web, Design, Ux | [❌](http://refresh.rocks/call-for-papers/) | [✅](http://refresh.rocks/code-of-conduct) |
 | [State of the Browser](https://2018.stateofthebrowser.com/) | London, UK 🇬🇧 | September 8 | Web | [❌](https://twitter.com/londonwebstandards) | [✅](https://2018.stateofthebrowser.com/code-of-conduct/) |
@@ -220,12 +221,16 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | ✅ | ❓ |
+| [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
+| [Smashing Conf New York](https://smashingconf.com/ny-2018/) | New York, USA 🇺🇸 | October 23-24 | Frontend, Web, HTML, CSS, JavaScript, Design, UX | ❌ | [✅](https://smashingconf.com/codeofconduct) |
 | [Technorama](https://techorama.nl/) | Ede, The Netherlands 🇳🇱 | October 1-3 | Development, Architecture | [✅ ](https://techorama.nl/cfp/) | ❓ |
 | [Framework Summit](https://www.frameworksummit.com/) | Park City (UT), USA 🇺🇸 | October 2-3 | JavaScript, Node | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfvEADqRfF-PqQPqsqlPQORKtZfm4z8AttWyy6DraRSj7U7NA/viewform) | [✅](https://uploads-ssl.webflow.com/5a32c55e4a2f7d000197a6ce/5a711f4471b0100001ce2146_Framework%20Summit%20Code%20of%20Conduct.pdf) |
 | [Fronteers Conference](https://fronteers.nl/congres/2018) | Amsterdam, The Netherlands 🇳🇱 | October 4-5 | Web, Frontend | ❌  | [✅](https://fronteers.nl/congres/2018/code-of-conduct) |
 | [Paris Web](https://www.paris-web.fr/) | Paris, France 🇫🇷 | October 4-6 | Web, UX, Design, Accessibility | [✅](https://appel-orateurs.paris-web.fr/) | [✅](https://www.paris-web.fr/code-de-conduite.php/) |
 | [Confront](https://confront.se/) |  Malmö, Sweden 🇸🇪 | October 5 | Web, Design | ❌ | [✅](https://confront.se/code-of-conduct/) |
 | [React JS Day](http://2018.reactjsday.it/) |  Verona, Italy 🇮🇹 | October 5 | JavaScript, React |[✅](https://goo.gl/forms/BKygQgXoJdUKIjaW2)| [✅](http://2018.reactjsday.it/coc.html) |
+| [We ❤️ Speed](https://www.welovespeed.com/) | Bordeaux, France 🇫🇷 | October 9 | Web, WebPerf, Front End, Optimizations, UX | ❌ | [✅](https://www.welovespeed.com/code-de-conduite/) |
 | [JS Interactive](http://events.linuxfoundation.org/events/js-interactive) | Vancouver, Canada 🇨🇦 | October 10-12 | JavaScript, Node | [✅](https://linuxfoundation.smapply.io/prog/lst/) | [✅](http://events.linuxfoundation.org/content/code-conduct-4) |
 | [WDC Web Developer Conference](http://www.web-developer-conference.de/) | Munich, Germany 🇩🇪 | October 16-18 | Angular, Progressive Web Apps | [✅](https://goo.gl/forms/rFbDc90QAMNFCoBC2) | ❓ |
 | [RuhrJS](https://ruhrjs.de/) | Essen, Germany 🇩🇪 | October 13-14 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSdfuHY7Z0hZNzJhyRZbhJoi6VVpcrTIveiGoBNkPzjSdTkSKg/viewform) | [✅](https://ruhrjs.de/code-of-conduct) |
@@ -260,9 +265,11 @@ Thank you 🙏
 | [Pixel Pioneers](https://pixelpioneers.co/) | Belfast, Northern Ireland 🇮🇪 | November 23 | Web | [✅](https://pixelpioneers.co/call-for-speakers) | [✅](http://confcodeofconduct.com/) |
 | [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC39, Tooling, Standards | ❌ | [✅](https://2017.js-kongress.de/code-of-conduct/) |
 | [DataSciCon.Tech](https://datascicon.tech/) | Atlanta, USA 🇺🇸 | November 28-30 | Data Science, Machine Learning, AI, Data Analytics, Python, Tensorflow, R |[✅](http://datascicon.tech/cfp.html) | [✅](http://datascicon.tech/) |
+| [React Day Berlin](https://reactday.berlin/) | Berlin, Germany 🇩🇪 | November 30 | React, React Native, JavaScript, Front-end | [✅](https://goo.gl/forms/1gmsGEB6g0nkXoLA3) | [✅](http://berlincodeofconduct.org) |
 
 ## December
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [NG-BE 2018](https://ng-be.org/) | Ghent, Belgium 🇧🇪 | December 6-7 | JavaScript, Angular | ❌ | [✅](https://ng-be.org/code-of-conduct) |
+| [FRONTEND CON 2018](http://www.frontend-con.io/) | Warsaw, Poland 🇵🇱 | December 4-5 | Frontend, Web, HTML, CSS, JavaScript | [✅](https://goo.gl/forms/cfcFRlH4lzgF8zhd2) | [✅](http://confcodeofconduct.com/) |
