@@ -260,6 +260,7 @@ Thank you 🙏
 | [dotJS](https://www.dotjs.io/) | Paris, France 🇫🇷 | November 9 | JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) | [✅](https://www.dotconferences.com/codeofconduct) |
 | [ColdFront 2018](https://2018.coldfront.co) | Copenhagen, Denmark 🇩🇰 | November 13-14 | Web, Mobile, Front-end, Interfaces | ❌  | [✅](http://confcodeofconduct.com/) |
 | [Continuous Lifecycle](https://www.continuouslifecycle.de/) | Mannheim, Germany 🇩🇪 | November 13-16 | Continuous Delivery, DevOps | [✅](https://www.continuouslifecycle.de/call.php) | [✅](https://www.continuouslifecycle.de/konferenz_coc.php) |
+| [VueConf TO](https://vuetoronto.com/) | Toronto, Canada 🇨🇦 | November 14-16 | JavaScript, Vue | ❌ | [✅](http://confcodeofconduct.com/) |
 | [JSConf Colombia](https://jsconf.co/) | Medellin, Colombia 🇨🇴 | November 16-17 | JavaScript | ✅ | [✅](http://jsconf.com/codeofconduct.html) |
 | [HalfStack](http://halfstackconf.com/) | London, UK 🇬🇧  | November 16 | JavaScript, Web | [✅](http://halfstackconf.com/) | [✅](http://jsconf.com/codeofconduct.html) |
 | [Material 18](https://material.is/2018/) | Reykjavík, Iceland 🇮🇸 | November 16 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
