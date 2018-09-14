@@ -249,6 +249,7 @@ Thank you 🙏
 
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
+| [Accessibility Club](https://accessibility-club.org/) | Berlin, Germany 🇩🇪 | November 5 | Accessibility | [✅](https://colloq.io/events/accessibility-club/2018/berlin/1/callforpapers) | [✅](https://accessibility-club.org/code-of-conduct.html) |
 | [Web Directions AI](http://webdirections.org/ai) | Sydney, Australia 🇦🇺 | November 7 | AI | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [Web Directions Culture](http://webdirections.org/culture) | Sydney, Australia 🇦🇺 | November 7 | Team Lead, Culture | [✅](http://www.webdirections.org/speaking/) | [✅](http://www.webdirections.org/web-directions-event-code-of-conduct/) |
 | [DevRelCon](https://london-2018.devrel.net/) | London, UK 🇬🇧  | November 8 | Development, Evangelism, Developer Relations | [✅](https://www.papercall.io/devrelcon-london-2018) | [✅](https://london-2018.devrel.net/code-of-conduct/index.html) |
