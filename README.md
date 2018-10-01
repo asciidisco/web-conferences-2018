@@ -243,6 +243,7 @@ Thank you 🙏
 | [Blend Web Mix](http://www.blendwebmix.com/) | Lyon, France 🇫🇷 | October 24-25 | Web, JavaScript, Design, Ux | ❓ | [✅](http://www.blendwebmix.com/code-de-conduite/) |
 | [React Conf 2018](http://conf.reactjs.org) | Henderson, Nevada 🇺🇸 | October 25-26 | Web, JavaScript | [✅](https://docs.google.com/forms/d/e/1FAIpQLSfy6kymX8hT84rm7b30NUdZN2Y0-4fhCU9mp3adufRLCiuWLg/viewform?usp=send_form) | [✅](http://conf.reactjs.org/code-of-conduct.html) |
 | [Refresh Conference](https://refreshconference.nl) | Groningen, The Netherlands 🇳🇱 | October 26 | Web, Frontend, design, UX | ❌  | [✅](https://www.refreshconference.nl/coc.html) |
+| [ConFrontJS 2018](https://confrontjs.com/) | Warsaw, Poland 🇵🇱 | October 29 | JavaScript, Front-end, Node.js, Web | ✅ | ✅ |
 | [ReactiveConf](https://goo.gl/QD9FVN) | Prague, Czech Republic 🇨🇿 | October 29-31 | Web, Development, JavaScript | ✅ | ✅ |
 
 ## November
