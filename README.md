@@ -267,7 +267,6 @@ Thank you 🙏
 | [FrontMania](https://www.frontmania.com/conference/welcome) | Utrecht, NL 🇳🇱 | November 16 | JavaScript, CSS, Web | ❌ | [✅](https://www.frontmania.com/conference/codeofconduct) |
 | [Material 18](https://material.is/2018/) | Reykjavík, Iceland 🇮🇸 | November 16 | Web | ❌ | [✅](http://confcodeofconduct.com/) |
 | [Pixel Pioneers](https://pixelpioneers.co/) | Belfast, Northern Ireland 🇮🇪 | November 23 | Web | [✅](https://pixelpioneers.co/call-for-speakers) | [✅](http://confcodeofconduct.com/) |
-| [JS Kongress - The Future of JavaScript](https://2018.js-kongress.com/) | Munich, Germany 🇩🇪 | November 26-27 | Web, JavaScript, Front-end, ES.next, TC39, Tooling, Standards | ❌ | [✅](https://2017.js-kongress.de/code-of-conduct/) |
 | [DataSciCon.Tech](https://datascicon.tech/) | Atlanta, USA 🇺🇸 | November 28-30 | Data Science, Machine Learning, AI, Data Analytics, Python, Tensorflow, R |[✅](http://datascicon.tech/cfp.html) | [✅](http://datascicon.tech/) |
 | [React Day Berlin](https://reactday.berlin/) | Berlin, Germany 🇩🇪 | November 30 | React, React Native, JavaScript, Front-end | [✅](https://goo.gl/forms/1gmsGEB6g0nkXoLA3) | [✅](http://berlincodeofconduct.org) |
 
