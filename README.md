@@ -277,3 +277,4 @@ Thank you 🙏
 | [NG-BE 2018](https://ng-be.org/) | Ghent, Belgium 🇧🇪 | December 6-7 | JavaScript, Angular | ❌ | [✅](https://ng-be.org/code-of-conduct) |
 | [FRONTEND CON 2018](http://www.frontend-con.io/) | Warsaw, Poland 🇵🇱 | December 4-5 | Frontend, Web, HTML, CSS, JavaScript | [✅](https://goo.gl/forms/cfcFRlH4lzgF8zhd2) | [✅](http://confcodeofconduct.com/) |
 | [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home) | Clearwater, USA 🇺🇸 | December 2-5 | Frontend, Web, JavaScript, React, Vue | [✅](https://therichwebexperience.com/home/speaker_request) | [✅](https://therichwebexperience.com/home/code_of_conduct) |
+| [FITC Spotlight React](https://fitc.ca/event/react2018/) | Toronto, Canada 🇨🇦 | December 1 | Web, JavaScript, React, Vue, Typescript | [❌] | [✅](https://fitc.ca/code-of-conduct/) |
