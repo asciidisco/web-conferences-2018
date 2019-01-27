@@ -1,6 +1,6 @@
-# Web Development Conferences 2018
+# Web Development Conferences 2019
 
-A list of Web & JavaScript related conferences happening in 2018.
+A list of Web & JavaScript related conferences happening in 2019.
 Please send in a PR if you want to add a new event or fix/enhance the info given for existing ones.
 Thank you 🙏
 
