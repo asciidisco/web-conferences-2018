@@ -49,7 +49,7 @@ Thank you 🙏
 | Event | Location | Date | Topic | CFP | CoC |
 |-------|:--------:|:----:|:-----:|:---:|-----|
 | [JSConf Iceland](https://2018.jsconf.is/) | Rejkjavik, Iceland 🇮🇸 | March 1-2 | JavaScript | ❌ | [✅](http://confcodeofconduct.com/) |
-| [NGVikings](https://ngvikings.org) | Helsinki, Finland 🇫🇮 | March 1-2 | JavaScript, Angular | [❌](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/closedform) | [✅](https://ngvikings.org/faq/) |
+| [ngVikings](https://ngvikings.org) | Copenhagen, Denmark | March 26-28 | JavaScript, Angular, Mobile | [❌](https://docs.google.com/forms/d/e/1FAIpQLScRfspKVagbXFKC4OV0z--D9fCdnb0vX-t_cpOHWgbP9qteeA/viewform) | [✅](https://ngvikings.org/faq/) |
 | [The Lead Dev](https://austin2018.theleaddeveloper.com//) | Austin (TX), USA 🇺🇸 | March 2 | Development | ❌ | [✅](https://austin2018.theleaddeveloper.com/code-of-conduct) |
 | [Concat](https://2018.conc.at/) | Salzburg, Austria 🇦🇹 | March 3 | Web, UX | ❌ | [✅](https://2018.conc.at/#coc) |
 | [TOCA ME](http://www.toca-me.com/) | Munich, Germany 🇩🇪  | March 3 | Design, Inspiration | ❌ | ❓ |
